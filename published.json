@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26",
+  "generatedAt": "2026-08-02",
   "items": [
     {
       "headline": "Hong Kong exports rocket 40.8% in May as the world keeps buying AI gear",
@@ -3872,6 +3872,170 @@
         {
           "title": "Hong Kong Court Rejects Appeal and Upholds 10-Year Jail Sentence on ex-UBS Private Banker Suen Kin-wing (Caproasia, 24 Jul 2026)",
           "url": "https://www.caproasia.com/2026/07/24/hong-kong-court-rejects-appeal-upheld-10-year-jail-sentence-on-ex-ubs-private-banker-suen-kin-wing-for-stealing-18-million-rmb-134-million-of-clients-money-to-maintain-lavish-lifestyle-including/"
+        }
+      ]
+    },
+    {
+      "id": "2026-W31-002",
+      "headline": "Dickson Poon Found Liable for Insider Dealing Over HK$1.15 Billion PayPal Windfall",
+      "week": "2026-W31",
+      "weekLabel": "27 Jul–2 Aug 2026",
+      "date": "2026-07-31",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Disputes"
+      ],
+      "whatsTheNews": "Hong Kong's Market Misconduct Tribunal (MMT), a civil tribunal that hears cases of improper trading brought by the Securities and Futures Commission, found Sir Dickson Poon and his investment vehicle Equity Advantage Limited liable for insider dealing on 31 July 2026. Insider dealing means buying or selling a company's shares while in possession of material, non-public information that would affect the share price if publicly known. The case arose from PayPal's US$4 billion acquisition of Honey Science Corporation in November 2019: Dickson Concepts, the luxury goods company that Poon chairs, held a 3.73% stake in Honey Science, meaning PayPal's acquisition would deliver a HK$1.15 billion windfall to Dickson Concepts. Between 28 November and 19 December 2019, before Dickson Concepts made the windfall public, Poon bought 2,756,500 Dickson Concepts shares through Equity Advantage. The tribunal also found that Dickson Concepts breached its obligation to disclose the inside information as soon as practicable, because Poon deliberately withheld it from the board and other senior management.",
+      "whatItMeans": "The Market Misconduct Tribunal (MMT) is a specialist civil tribunal in Hong Kong that hears allegations of market misconduct (including insider dealing, market manipulation, and false disclosure) brought by the SFC; it is a civil process, not a criminal prosecution, so findings lead to civil sanctions rather than prison. Insider dealing is buying or selling a company's shares by a person who has material non-public information about the company; it is a form of market misconduct because it gives the insider an unfair advantage over ordinary investors. Inside information is information that is specific to a company, not yet public, and which a reasonable investor would likely regard as relevant when deciding whether to buy or sell the company's shares. Disclosure obligations require listed companies to disclose inside information to the market as soon as reasonably practicable once they become aware of it; delays or failures to disclose are separate breaches from insider trading itself. Equity Advantage Limited is Poon's personal investment vehicle, meaning a company he controls and uses to hold investments; trading through such a vehicle does not shield the controlling individual from personal liability.",
+      "clients": [
+        "Controlling shareholders and senior executives of listed companies need to understand their personal legal obligations the moment they receive information about a transaction that could move the share price. The moment material non-public information is received, trading in the company's shares is prohibited and a countdown begins on disclosure. Waiting to act, or failing to inform the board, is itself a separate breach of the listing rules.",
+        "Companies undergoing significant transactions, such as a major asset sale, should immediately consult legal counsel about their disclosure timeline and trading restrictions. Internal trading freezes must be applied to all insiders, including controlling shareholders, and should not be left to each individual to manage without oversight. A board-level process for tracking inside information and managing disclosure is not optional: it is required by law.",
+        "Investors in listed Hong Kong companies should note that the SFC actively pursues market misconduct even years after the event. The original transactions in this case occurred in late 2019 and the tribunal findings came in 2026. This demonstrates the SFC's appetite and capability to pursue long-running investigations, which gives market participants a strong incentive to comply with rules in real time."
+      ],
+      "lawFirms": [
+        "Regulatory practices at Hong Kong firms will see a significant uptick in work advising listed company boards, senior executives, and controlling shareholders on the obligations triggered when material transactions are in progress. The Dickson Poon case shows that even the most senior controlling shareholders face personal liability for MMT findings, not just regulatory sanction at the corporate level. Any listed company facing a significant confidential transaction should be seeking legal advice from the first moment.",
+        "MMT proceedings follow a civil standard of proof rather than the criminal standard of beyond reasonable doubt, and the SFC has broad investigative powers to gather evidence. Law firms with a strong understanding of the SFC's investigative process, MMT procedures, and the interaction between market misconduct findings and broader company law are extremely well placed to advise in these situations.",
+        "For any candidate preparing for an interview at a financial regulatory or disputes practice, this case is a useful illustration of how market misconduct proceedings differ from criminal prosecution. Being able to explain the civil vs criminal distinction, name the tribunal, describe the sanctions available (disqualification orders, disgorgement of profits, cold-shoulder orders), and frame the commercial stakes is the level of analysis interviewers in regulatory teams expect."
+      ],
+      "sources": [
+        {
+          "title": "Dim Sum Daily – Sir Dickson Poon found liable for insider dealing over HK$1.15bn windfall (31 Jul 2026)",
+          "url": "https://www.dimsumdaily.hk/sir-dickson-poon-found-liable-for-insider-dealing-over-hk1-15bn-windfall-tribunal-cites-deliberate-non-disclosure/"
+        },
+        {
+          "title": "SFC – MMT proceedings commenced against Dickson Poon (background, Oct 2024)",
+          "url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=24PR168"
+        }
+      ]
+    },
+    {
+      "id": "2026-W31-006",
+      "headline": "SFC Freezes HK$125 Million at Futu Over Suspected IPO Demand-Rigging Scheme",
+      "week": "2026-W31",
+      "weekLabel": "27 Jul–2 Aug 2026",
+      "date": "2026-07-30",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Capital Markets"
+      ],
+      "whatsTheNews": "The Securities and Futures Commission (SFC) issued a restriction notice to Futu Securities International (Hong Kong) Limited on 30 July 2026, ordering the online brokerage to freeze HK$125 million held in specific client accounts linked to a suspected scheme to create a false impression of demand for shares in an initial public offering. A restriction notice is a regulatory order that instructs a firm to stop dealing with, or transferring, particular assets without the SFC's prior written consent. The SFC's investigation centres on an entity suspected of submitting artificially inflated IPO subscription orders to make the share offer appear more in demand than it actually was, a form of market manipulation that is illegal under Hong Kong's Securities and Futures Ordinance. Futu itself is not the subject of the investigation, and the order does not affect Futu's other clients or its broader business operations. The SFC declined to identify the specific IPO or the entity under investigation.",
+      "whatItMeans": "A restriction notice (also called a freeze order) is a legal instruction from the SFC that prevents a specified firm from dealing with, transferring, or disposing of particular assets without the regulator's permission; it is used to preserve evidence and stop money from being moved during an investigation. IPO market manipulation covers schemes designed to distort how a share offering appears to investors; inflating subscription demand is one form, because a heavily oversubscribed IPO is seen as a sign of high quality and encourages more investors to participate. An online brokerage such as Futu allows ordinary investors and institutional clients to buy and sell shares electronically; when the SFC places a freeze order on specific accounts held with a broker, it does not freeze all accounts at the broker, only the named accounts linked to the suspected scheme. The Securities and Futures Ordinance (SFO) is the primary legislation governing securities markets in Hong Kong; market manipulation under the SFO can lead to civil sanctions through the MMT or criminal prosecution.",
+      "clients": [
+        "Companies planning an IPO in Hong Kong should be aware that the SFC actively monitors subscription activity for signs of artificial demand manipulation. If an IPO's apparent demand has been artificially inflated by a manipulative scheme, the company risks launching at an inflated price that the market cannot sustain in secondary trading, which harms genuine long-term investors and damages the company's post-listing reputation.",
+        "Institutional and retail investors who use online brokerages to subscribe for IPO shares should understand that the brokerage may receive freeze orders on specific accounts if those accounts are linked to suspected misconduct. Clients who are genuinely not involved in any scheme should not be affected, but they should be aware that their broker's compliance obligations might result in temporary restrictions on account activity in extreme cases.",
+        "Technology companies and platforms that enable high-volume retail IPO subscriptions need to build compliance surveillance tools capable of flagging account activity that looks coordinated or artificial. The SFC's action against accounts held at Futu shows that the regulator can trace alleged manipulation through brokerage records and will act swiftly to freeze assets before any final judgment is reached."
+      ],
+      "lawFirms": [
+        "Financial regulatory and white-collar crime practices will be watching this investigation closely for the identity of the IPO and the ultimate sanctions imposed. If the scheme involved coordinated accounts across multiple brokerages, the investigation will require complex document production, data analysis, and potentially cross-border enforcement cooperation. Firms with both SFC regulatory expertise and cross-border investigation experience are best placed to advise if multiple parties are eventually named.",
+        "The use of a restriction notice rather than a court injunction is an important technical point: restriction notices under the SFO do not require a court application and can be issued very quickly by the SFC, giving the regulator a powerful tool to freeze assets while it builds a full case. Law firms advising intermediaries who receive restriction notices must advise their clients on the immediate compliance obligations, the risk of defying the notice (which is a criminal offence), and the procedural steps to challenge the order if appropriate.",
+        "For candidates, this story illustrates one of the key enforcement mechanisms available to the SFC that does not require going to court first. Understanding the difference between a restriction notice, a court injunction, and an MMT order, and knowing when each is used, is exactly the kind of detailed regulatory knowledge that firms in HK's financial regulatory space expect candidates to possess or to be actively developing."
+      ],
+      "sources": [
+        {
+          "title": "SCMP – Hong Kong regulators freeze US$15.9 million linked to suspected IPO fraud (30 Jul 2026)",
+          "url": "https://www.scmp.com/business/banking-finance/article/3362411/hong-kong-regulators-freeze-us159-million-linked-suspected-ipo-fraud"
+        },
+        {
+          "title": "Caproasia – SFC Issues Restriction Notice to Futu Securities to Freeze HK$125 Million (30 Jul 2026)",
+          "url": "https://www.caproasia.com/2026/07/30/hong-kong-sfc-issues-restriction-notice-to-futu-securities-international-to-freeze-16-million-hkd-125-million-assets-in-client-accounts-involved-in-suspected-fraud-scheme-to-create-false-or-artific/"
+        }
+      ]
+    },
+    {
+      "id": "2026-W31-007",
+      "headline": "Hongkong Land Forecasts End of Six-Year Office Rent Decline as Central Market Recovers",
+      "week": "2026-W31",
+      "weekLabel": "27 Jul–2 Aug 2026",
+      "date": "2026-07-28",
+      "region": "HK",
+      "practiceAreas": [
+        "Real Estate"
+      ],
+      "whatsTheNews": "Hongkong Land Holdings, the dominant commercial landlord in Hong Kong's Central business district, said on 28 July 2026 that it expects rents in its office towers to stabilise in 2027 after six consecutive years of decline, with rental growth returning in 2028. The company reported that average office rents in the first half of 2026 were HK$91 per square foot, a 4% drop from the same period in 2025, but said that expiring leases are now being renewed at similar rent levels, which would bring the overall decline to a halt. A lease renewal at a flat rate means the weighted average rent across the portfolio stops falling even without any market-wide improvement, because the drag from older, higher-rent leases rolling off disappears. The broader Central Grade A office market showed stronger signals: independent data showed Central rents rose 7.3% in the first half of 2026, and JLL analysts forecast a further 15% increase. Hongkong Land's portfolio accounts for a large share of all premium Grade A office space in Hong Kong's Central and Admiralty districts, making its guidance particularly significant for the wider market.",
+      "whatItMeans": "A commercial landlord is a company that owns buildings and leases space in them to businesses; Hongkong Land's tenants are law firms, banks, and financial institutions that pay rent to occupy offices in its Central towers. Rent per square foot is the standard unit for measuring office rental costs in Hong Kong: a 5,000 square foot law firm office at HK$91 per square foot pays HK$455,000 per month in rent. A lease expiry and renewal cycle matters for landlord revenues: when a tenant who signed a lease five years ago at a higher rent renews at today's lower rate, the landlord's income falls even if the market itself has stabilised. Grade A office space is the highest quality, most prestigious commercial real estate in a city centre, typically in a relatively new building with high-specification facilities; it commands a premium over Grade B and Grade C space. The portfolio value of a property company rises when rental income stabilises or grows, which is why Hongkong Land's forward guidance on rent stabilisation in 2027 is treated as significant market news.",
+      "clients": [
+        "Law firms, banks, and financial institutions that occupy Hongkong Land's Central towers and are approaching lease renewals in 2026 or 2027 are entering the market at what appears to be close to the bottom of the rental cycle. Negotiating a long-term lease now, before rents recover in 2028, locks in favourable terms for the duration of the lease. Tenants who are signing new leases or extensions should push for the longest possible term at current rates.",
+        "Property investment clients who own or are considering buying Central Grade A office assets need to factor the rental stabilisation signal into their valuation models. If rents are at or near a floor, the net asset value of central office buildings is likely to improve over the next two to three years, and forward capitalisation rates (the ratio of rental income to asset value) will compress as the income outlook brightens.",
+        "Companies considering relocating to Hong Kong or expanding their office footprint in the city can time their entry more precisely now that a market bottom is in view. Taking extra space today, at low current rental rates, before the 2028 recovery, is likely to be cheaper in present-value terms than waiting for the market to recover and paying a higher rate on the same square footage."
+      ],
+      "lawFirms": [
+        "Real estate practices at Hong Kong firms advising large occupiers or institutional property investors will see this signal as a prompt to revisit lease advisory mandates. If the rental cycle is turning, clients locked into above-market rents from leases signed before the 2020 decline may want legal advice on break options, lease surrender negotiations, or rent review mechanisms. Getting ahead of that conversation now is a commercial advantage.",
+        "Property finance teams will start to see improving deal flow as landlord confidence returns. When rents stabilise and then grow, lenders become more willing to refinance commercial property at better terms, and new property acquisitions become financially viable again. The recovery in Central office rents supports loan-to-value ratios on existing property finance and encourages new construction or renovation debt financings.",
+        "For candidates, the ability to link commercial real estate market conditions to the operating environment of law firms is a strong signal of commercial awareness. Hong Kong's law firms are concentrated in Central precisely because their clients are nearby; if office rents in Central recover and occupancy costs rise, firms may need to consider their own space requirements. Understanding the supply-demand dynamics of Grade A Central office space is relevant to anyone considering a career at a Hong Kong-headquartered firm."
+      ],
+      "sources": [
+        {
+          "title": "Bloomberg – Hongkong Land Expects Office Rental Decline to End Next Year (28 Jul 2026)",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/hongkong-land-expects-office-rental-decline-to-end-next-year"
+        }
+      ]
+    },
+    {
+      "id": "2026-W31-009",
+      "headline": "Fed Holds Rates Steady and HKMA Follows, Keeping Hong Kong Borrowing Costs at 4%",
+      "week": "2026-W31",
+      "weekLabel": "27 Jul–2 Aug 2026",
+      "date": "2026-07-30",
+      "region": "HK",
+      "practiceAreas": [
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "The United States Federal Reserve (the Fed), which sets interest rates for the world's largest economy, held its benchmark interest rate unchanged at a target range of 3.5% to 3.75% at its 30 July meeting, and Hong Kong's monetary authority followed within hours, maintaining its own base rate at 4% as required by Hong Kong's currency peg to the US dollar. The Linked Exchange Rate System (LERS) pegs the Hong Kong dollar within a narrow band of 7.75 to 7.85 to the US dollar, and as a consequence Hong Kong's interest rates must track US rates closely: if Hong Kong rates were significantly lower than US rates, investors would sell Hong Kong dollars to buy higher-yielding US dollar assets, putting downward pressure on the peg. The Fed's decision to hold reflects continued uncertainty about whether US inflation has been fully contained and whether the American economy is slowing enough to justify lower rates. For Hong Kong, the result is that borrowing costs for households and businesses remain at 4%, which is materially above the levels seen between 2008 and 2022, when rates were close to zero for much of that period. The HKMA noted that Hong Kong's economy grew 5.9% in the first quarter and 4.3% in the second quarter, and said it expects growth to remain solid in the second half of 2026.",
+      "whatItMeans": "The Federal Reserve (Fed) is the central bank of the United States; its Federal Open Market Committee (FOMC) meets approximately eight times a year to decide whether to raise, cut, or hold the federal funds rate, which anchors borrowing costs across the entire US economy and spills over into global financial markets. Interest rates set by the Fed flow through to mortgage rates, business loan rates, bond yields, and global financial markets including Hong Kong's, because many assets globally are priced relative to the US rate. The Linked Exchange Rate System (LERS) is the arrangement, in operation since 1983, by which the Hong Kong dollar is pegged to the US dollar; this prevents exchange rate risk for traders and investors in HK, but it means that HK's monetary policy is effectively set in Washington DC, not Hong Kong. The HKMA's base rate is a formula-driven rate: it is automatically set at the bottom of the Fed's target range plus 50 basis points (a basis point is 0.01%), so a Fed funds range of 3.5-3.75% means the HK base rate is 3.5 + 0.5 = 4.0%. Banks then set their prime lending rates based on the HKMA base rate.",
+      "clients": [
+        "Hong Kong businesses with loans linked to the prime rate, which tracks the HKMA base rate, can now plan with greater confidence that borrowing costs will remain at around 4% for at least the near term. Companies that deferred refinancing decisions hoping for a rate cut should reassess their assumptions: if the Fed holds for several more meetings, the cost of waiting rises. Locking in a fixed rate now may be preferable to remaining on a floating rate that tracks a still-elevated base rate.",
+        "Property buyers and mortgage holders in Hong Kong face continued affordability pressure because mortgage rates, which are linked to prime, remain significantly higher than the near-zero rates that prevailed between 2008 and 2022. For the residential property market to fully recover, mortgage rates need to fall materially, which requires the Fed to begin a sustained rate-cutting cycle. Every Fed hold extends the period of affordability pressure for Hong Kong homebuyers.",
+        "Companies raising debt capital in Hong Kong need to factor in that the cost of debt remains elevated by recent historical standards. Bond issuers, project finance borrowers, and acquisition financiers all find their debt more expensive at 4% base rates than at 1%. In practical terms, deals that would have been financially viable in a low-rate environment need higher returns from the underlying assets or projects to justify the financing cost."
+      ],
+      "lawFirms": [
+        "Banking and finance teams advising on debt transactions need to understand the interest rate environment their clients are operating in, because the attractiveness of a deal often depends critically on whether the cost of debt is 2% or 4%. Higher rates reduce the number of deals that make financial sense, which suppresses deal volume in leveraged finance and acquisition finance. Partners in these teams track Fed decisions carefully because each FOMC meeting directly affects their pipeline.",
+        "Restructuring and insolvency practices benefit from the higher-rate environment in the sense that more companies find themselves financially stressed when the cost of servicing existing debt rises. Companies that took on significant debt at low interest rates in 2019-2022 and now face refinancing at 4% rates may struggle with cashflow; that pressure creates demand for advice on debt restructuring, amend-and-extend negotiations with lenders, and in more severe cases, formal insolvency proceedings.",
+        "For candidates, demonstrating knowledge of how the Fed's decisions flow through to Hong Kong through the Linked Exchange Rate System is one of the clearest signals of commercial awareness about Hong Kong's financial system. Being able to explain why HK does not have independent monetary policy, and how this creates constraints and opportunities for HK-based businesses, shows the candidate has understood something genuinely important about how the market they want to work in operates."
+      ],
+      "sources": [
+        {
+          "title": "HKMA – HKMA's Response to US Fed's Interest Rate Decision (30 Jul 2026)",
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260730-4/"
+        },
+        {
+          "title": "SCMP – HKMA maintains base rate at 4% as US Fed keeps rate unchanged (30 Jul 2026)",
+          "url": "https://www.scmp.com/business/banking-finance/article/3362318/hkma-maintains-base-rate-4-us-fed-keeps-rate-unchanged"
+        }
+      ]
+    },
+    {
+      "id": "2026-W31-011",
+      "headline": "Negative Equity Cases in Hong Kong Plunge 62% in Q2 as Property Market Recovers",
+      "week": "2026-W31",
+      "weekLabel": "27 Jul–2 Aug 2026",
+      "date": "2026-07-31",
+      "region": "HK",
+      "practiceAreas": [
+        "Real Estate",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "The number of residential mortgages in negative equity in Hong Kong fell 61.9% to 4,356 cases at the end of June 2026, down from 11,424 cases at the end of March, according to a survey released by the HKMA on 31 July 2026. A mortgage is in negative equity when the outstanding amount owed on the loan is greater than the current market value of the property: if a flat worth HK$4 million has a HK$5 million mortgage, the homeowner is HK$1 million in negative equity and technically owes more than they own. The total value of these negative equity loans also fell sharply, dropping 64.4% to HK$19.6 billion. The rapid improvement reflects a sustained recovery in Hong Kong residential property prices throughout the first half of 2026, which lifted property values above the outstanding loan balances for many affected households. The HKMA simultaneously released June residential mortgage survey results showing that new mortgage approvals rose 25.8% month-on-month to HK$50.6 billion, reinforcing the picture of a recovering property market with increasing buyer confidence.",
+      "whatItMeans": "Negative equity (sometimes called being underwater on a mortgage) occurs when the current market value of a property is less than the outstanding balance on the mortgage secured against it; the property owner technically owes more than they own. At its peak in early 2026, there were over 20,000 cases of negative equity in Hong Kong, largely because property prices fell significantly while mortgages taken out at higher price levels remained outstanding. A mortgage approval is when a bank agrees to lend a specific amount to a specific buyer for a specific property; a jump in approvals signals both that more people are buying and that banks are comfortable lending, both positive signs for the market. The three-month delinquency ratio, which measures the proportion of mortgages where repayments are more than three months overdue, rose to 1.25% from 0.5%, which is a caution that even as prices recover, some homeowners are still under financial stress.",
+      "clients": [
+        "Hong Kong homeowners who were previously in negative equity and are now closer to or above par should seek legal and financial advice on whether to refinance now. As their loan-to-value ratio improves, they may qualify for better mortgage rates, lower their monthly repayments, or release equity to fund other investments. This is a time-sensitive opportunity that narrows as property prices continue to rise.",
+        "Real estate developers and investors should read the 62% drop in negative equity cases as a leading indicator of increasing market health. Fewer distressed properties means fewer forced sales, which supports price stability; combined with the 26% jump in mortgage approvals, the signals point to a market with genuine momentum rather than a technical bounce. Investment decisions for new developments or acquisitions can be made with more confidence than a year ago.",
+        "Lenders with mortgage books should review their risk-weighted asset calculations as negative equity cases fall. Banks are required to hold capital against the risk of their loans, and a loan in negative equity carries a higher capital charge than one with adequate collateral. As property values recover and loan-to-value ratios on existing mortgages improve, banks may find they can deploy capital previously tied up in credit risk reserves into new business."
+      ],
+      "lawFirms": [
+        "Real estate and conveyancing practices can expect a material increase in transaction volumes as buyer confidence returns. More mortgage approvals mean more property purchases, each of which requires legal advice on the sale and purchase agreement, title search, mortgage documentation, and post-completion formalities. In a recovering market, the volume uplift flows directly to residential property law departments.",
+        "Banking and finance teams advising lenders will see more demand for mortgage facility advice, property financing restructuring where current LTV ratios now look more comfortable, and potentially new construction finance mandates as developers gain confidence to launch new projects. The improvement in the negative equity statistics also reduces the risk of litigation from distressed homeowners, which eases the burden on lenders' legal departments.",
+        "For candidates, the negative equity story is a good example of how a macro trend (property price recovery) flows into specific legal and financial outcomes: fewer distressed borrowers, more active conveyancing, improving bank balance sheets, and recovering developer confidence. Being able to map this chain of effects, connecting a headline statistic to specific types of legal work, is precisely what commercial awareness interviews reward."
+      ],
+      "sources": [
+        {
+          "title": "Blockchain.News – Hong Kong Mortgages in Negative Equity Drop 61.9% by June 2026 (31 Jul 2026)",
+          "url": "https://blockchain.news/news/hong-kong-mortgages-negative-equity-june-2026"
+        },
+        {
+          "title": "Dim Sum Daily – Mortgage approvals surge in June as negative equity cases plunge (31 Jul 2026)",
+          "url": "https://www.dimsumdaily.hk/mortgage-approvals-surge-in-june-as-negative-equity-cases-plunge-says-hkma/"
         }
       ]
     }
