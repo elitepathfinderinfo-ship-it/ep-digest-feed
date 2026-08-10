@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02",
+  "generatedAt": "2026-08-10",
   "items": [
     {
       "headline": "Hong Kong exports rocket 40.8% in May as the world keeps buying AI gear",
@@ -4036,6 +4036,172 @@
         {
           "title": "Dim Sum Daily – Mortgage approvals surge in June as negative equity cases plunge (31 Jul 2026)",
           "url": "https://www.dimsumdaily.hk/mortgage-approvals-surge-in-june-as-negative-equity-cases-plunge-says-hkma/"
+        }
+      ]
+    },
+    {
+      "id": "2026-W32-002",
+      "headline": "Beijing Doubles Down on Hong Kong as CSRC Unveils Ten Measures to Deepen Cross-Border Market Links",
+      "week": "2026-W32",
+      "weekLabel": "3–9 Aug 2026",
+      "date": "2026-08-03",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Capital Markets"
+      ],
+      "whatsTheNews": "On August 3, 2026, China Securities Regulatory Commission Chairman Wu Qing announced ten new measures to deepen financial market cooperation between mainland China and Hong Kong, the most substantive package of cross-border market-opening steps in several years. The package covers expanding Stock Connect (the scheme linking mainland and Hong Kong stock exchanges) to include RMB-denominated stocks and real estate investment trusts (REITs), supporting more dual-direction cross-listings, developing joint stock indexes and exchange-traded funds (ETFs), and simplifying the process for mainland financial professionals to obtain Hong Kong qualifications. A REIT is a company that owns income-generating properties and allows investors to buy shares in the portfolio; until now REITs were not eligible for trading under Stock Connect. An ETF is a single security that tracks a basket of assets, making it easy to invest in many stocks at once. The announcement came at the same ceremony marking the launch of HKEX's new 5-year CGB futures.",
+      "whatItMeans": "Stock Connect is a programme linking the stock exchanges of Hong Kong, Shanghai, and Shenzhen, allowing investors to buy shares on the other market through their own broker without a separate account. A REIT (Real Estate Investment Trust) is a company that owns income-generating property (such as offices or shopping malls) and allows investors to buy shares in that portfolio; adding REITs to Stock Connect would open them to a much larger pool of cross-border investors. An ETF (exchange-traded fund) is a single security that tracks a basket of assets, such as an index; cross-border ETFs would let investors in one market easily buy exposure to the other. Cross-listing means a company already listed on one exchange (say, Shanghai) also lists its shares on a second exchange (say, Hong Kong) to reach a different pool of investors.",
+      "clients": [
+        "Companies already listed on mainland exchanges now have a clearer regulatory path to pursue a secondary listing in Hong Kong and attract international institutional investors. More access to foreign capital means a potentially lower cost of equity and a higher international profile. For boards that have been weighing the option, the regulator's public endorsement removes much of the political uncertainty.",
+        "International asset managers who run funds tracking Chinese equity or bond markets benefit from expanded Stock Connect eligibility. If REITs and RMB-denominated stocks can flow through the northbound and southbound channels, the universe of investable Chinese assets accessible from Hong Kong grows materially. Larger accessible markets increase demand for the products and research that help clients take positions.",
+        "Companies in Hong Kong's financial services sector, including brokers, asset managers, and exchanges, stand to gain directly from higher cross-border trading volumes. Each new eligible security or product category adds potential revenue from commissions, fund fees, and market-making spreads. The ten measures effectively signal that regulators on both sides want this market to grow steadily."
+      ],
+      "lawFirms": [
+        "Capital markets and regulatory practices will see demand from clients preparing for dual listings or analysing the expanded Stock Connect eligibility rules. Each new eligible security category requires legal analysis of the updated rules, new investor disclosure requirements, and sometimes structural changes to how shares are held or cleared. This is steady advisory work for firms with Hong Kong-mainland expertise.",
+        "The qualification-recognition measures mean that more mainland lawyers and compliance professionals may seek to work or advise in Hong Kong. International firms building their mainland China practices, and mainland firms expanding into Hong Kong, both need advice on the relevant licensing and accreditation requirements. This creates a consulting and regulatory advisory opportunity for firms with cross-border expertise.",
+        "For candidates, the announcement of ten concrete measures rather than vague policy aspirations is noteworthy because it gives partners something specific to discuss with clients. Firms that can map each measure to a specific client need, whether in capital raising, asset management, or risk management, win the mandates. Candidates who can explain what each measure does and why it matters are already thinking like junior associates."
+      ],
+      "sources": [
+        {
+          "title": "Xinhua English: China Backs HK Firms for Mainland Listings, Expands Capital Market Ties (3 Aug 2026)",
+          "url": "https://english.news.cn/20260803/224968418ca84f2bb16c18b3ca480d7d/c.html"
+        },
+        {
+          "title": "Bloomberg: China's Wu Vows Further Expansion of Market Links to Hong Kong (3 Aug 2026)",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-03/china-s-wu-vows-further-expansion-of-market-links-to-hong-kong"
+        },
+        {
+          "title": "Caixin Global: China Backs Hong Kong Firms for Mainland Listings (3 Aug 2026)",
+          "url": "https://www.caixinglobal.com/2026-08-03/china-backs-hong-kong-firms-for-mainland-listings-102470886.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-W32-008",
+      "headline": "Five in One Day: New Ransomware Group Orova Targets Hong Kong Asset Managers and Consumer Brands",
+      "week": "2026-W32",
+      "weekLabel": "3–9 Aug 2026",
+      "date": "2026-08-06",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory"
+      ],
+      "whatsTheNews": "A newly identified ransomware group called Orova posted 24 claimed victims across six countries on its dark-web site on August 4 and 5, 2026, with five of those victims based in Hong Kong, making this one of the most concentrated single-episode attacks on Hong Kong firms in recent memory. Ransomware is a type of malicious software that locks a victim's computer systems or steals its data and then demands a payment (typically in cryptocurrency) in exchange for restoring access or not publishing the stolen files. The five Hong Kong victims included JK Capital Management (an asset manager), SSI Holding (parent of the Far East department store chain), Tat Fung Textile, Sanrio (Hong Kong) Limited, and Sure Travel. Threat intelligence firm FalconFeeds.io first flagged Orova on August 4 and traces the group's activity back to May 2026. The attack on JK Capital Management is particularly significant because it follows the SFC's landmark first-ever cyber-security fine, imposed on Luk Fook Securities in late July 2026, signalling that the regulator is now actively enforcing cyber-security standards in the financial sector.",
+      "whatItMeans": "Ransomware is malicious software that either encrypts a victim's files (making them inaccessible) or exfiltrates (steals and copies) sensitive data, then demands a ransom to restore access or to prevent the stolen data from being published. A dark-web leak site is a website run anonymously on hidden internet networks where ransomware groups publish stolen data from victims who refuse to pay, increasing pressure on companies to settle. Threat intelligence refers to information gathered about cyber attackers, including their identities, tools, and targets; specialist firms like FalconFeeds.io monitor these groups and publish early warnings. An asset manager is a firm that manages investments on behalf of clients; a breach at JK Capital could expose client information, trading records, and confidential investment strategies, all of which are highly sensitive and regulated data.",
+      "clients": [
+        "SFC-regulated financial firms, including banks, insurers, and asset managers, face growing legal obligations to maintain adequate cyber defences under SFC and HKMA guidance. An attack on JK Capital Management, coming within days of the SFC's first cyber-security fine on Luk Fook Securities, sends a clear signal that current minimum standards are not being met across the sector. Boards should expect enhanced supervision and potentially mandatory cyber-security reviews in the months ahead.",
+        "Consumer brands and retailers holding large customer data sets, including loyalty records, payment details, and personal information, are clearly within scope for ransomware groups targeting Hong Kong. SSI Holding and Sanrio Hong Kong hold large volumes of personal data, meaning a breach triggers notification obligations under Hong Kong's Personal Data (Privacy) Ordinance as well as potential regulatory fines. Data breaches also damage customer trust and brand reputation in ways that are hard to quantify but real.",
+        "Companies across all sectors need to revisit their cyber-insurance policies and incident-response plans following Orova's debut campaign. Ransomware insurance is increasingly expensive and heavily exclusionary; policies often do not cover ransom payments made in cryptocurrency or exclude breaches caused by employee error. Legal teams should audit their cyber contracts before an incident occurs, not after."
+      ],
+      "lawFirms": [
+        "Financial regulatory and risk practices will see demand from SFC-regulated firms seeking advice on whether their cyber-security frameworks meet the regulator's published expectations, particularly following the Luk Fook fine. Each enforcement action or major incident creates a wave of compliance advisory work as clients ask what standard they need to meet and whether their existing controls are sufficient. Cyber-regulation is one of the fastest-growing areas of financial services law in Hong Kong.",
+        "Dispute resolution and insurance teams will receive instructions from Orova victims deciding whether to pay the ransom, engage with law enforcement, or pursue civil claims against parties responsible for the breach. Ransomware cases raise complex questions about insurance coverage, cross-border jurisdiction (many ransomware groups operate from countries where legal action is impractical), and victim obligations under Hong Kong's data protection laws. These are fact-intensive, high-stakes matters that require specialist legal support.",
+        "For candidates, the link between Orova's Hong Kong campaign and the SFC's earlier Luk Fook cyber fine is a strong interview talking point. It shows awareness of how enforcement action and market incidents interact to raise the regulatory floor. Explaining this chain of events, from a cyber fine to a new attack on a peer firm to the likely regulatory response, demonstrates the commercial reasoning that separates strong candidates."
+      ],
+      "sources": [
+        {
+          "title": "Tech Times: Orova Ransomware Breaches Five Hong Kong Firms; SFC's First Cyber Fine Lands Same Day (6 Aug 2026)",
+          "url": "https://www.techtimes.com/articles/323271/20260806/orova-ransomware-breaches-five-hong-kong-firms-sfcs-first-cyber-fine-lands-same-day.htm"
+        },
+        {
+          "title": "Dexpose.io: Orova Ransomware Targets HK Asset Manager JK Capital (2026)",
+          "url": "https://www.dexpose.io/orova-ransomware-targets-hk-asset-manager-jk-capital/"
+        }
+      ]
+    },
+    {
+      "id": "2026-W32-009",
+      "headline": "Hong Kong IPO Fundraising Soars 154% in Seven Months, Cementing the City's Grip on Global Listings",
+      "week": "2026-W32",
+      "weekLabel": "3–9 Aug 2026",
+      "date": "2026-08-06",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets"
+      ],
+      "whatsTheNews": "Hong Kong's stock exchange raised HK$328.2 billion (roughly US$41.8 billion) in total IPO proceeds in the first seven months of 2026, a 154% increase on the same period in 2025, according to data published by Xinhua on August 6, 2026. An IPO (initial public offering) is when a company sells shares to the public for the first time on a stock exchange, raising capital from investors in exchange for a stake in the business. Hong Kong recorded 104 new listings in the first half of 2026, almost double the 53 recorded in the same period of 2025. The average daily turnover on the Hong Kong Stock Exchange reached HK$307.2 billion in July 2026, up 17% year on year, showing that secondary market trading is also picking up. The performance cements Hong Kong's position as one of the world's top three IPO markets and confirms the city's role as the primary offshore capital-raising venue for Chinese companies.",
+      "whatItMeans": "IPO fundraising data measures the total amount of money raised by new listings on a stock exchange in a given period, adding the IPO proceeds across all companies that went public. Year on year (YoY) means compared to the same period twelve months earlier; a 154% YoY increase means the amount raised is roughly two and a half times what it was in the equivalent period of 2025. Average daily turnover (ADT) is the average value of shares traded on the stock exchange each day; higher ADT indicates a more liquid and active secondary market. A secondary market is the market where already-listed shares are bought and sold between investors, as opposed to the primary market where new shares are issued in an IPO; the two are linked because a liquid secondary market makes it easier for new IPOs to price confidently.",
+      "clients": [
+        "Companies across all sectors that have delayed an IPO because of thin market conditions now have a much stronger case for re-engaging. When the data shows 104 new listings and HK$328 billion raised in seven months, the market has clearly reopened. Finance directors and boards who have been waiting for further proof should be having those conversations with their investment banks now.",
+        "Private equity funds and venture capital investors who backed Chinese technology and consumer companies see a clearer path to an IPO exit in Hong Kong's public market. An IPO exit in a liquid, high-value market returns capital to fund investors and gives managers the track record to raise their next vehicle. Rising deal volumes and turnover make this a more reliable exit route than it has been at any point in the last three years.",
+        "Investment banks and financial intermediaries advising on listings benefit from a sustained pipeline of mandates. Higher market volume means stronger competition for the best deals, which pushes banks to offer more aggressive fee structures and stronger research coverage to win business. Issuers choosing between competing banks for their IPO have more negotiating leverage when market conditions are this active."
+      ],
+      "lawFirms": [
+        "Capital markets teams at major Hong Kong firms are running at high capacity given these deal volumes. Each listing on the HKEX requires sponsor counsel, issuer counsel, and sometimes separate counsel for selling shareholders; with 104 new listings in the first half alone, demand for transactional lawyers is high. Candidates who want to work in ECM should be joining firms that have invested in their capital markets teams.",
+        "The sector diversity of Hong Kong's IPO pipeline, from EV technology to AI to consumer goods, means capital markets lawyers need cross-sector knowledge alongside deep securities law expertise. A team that only understands financial-sector listings misses mandates in the technology and manufacturing sectors driving Hong Kong's current IPO cycle. Generalist capital markets training at a broad practice is increasingly valuable in this environment.",
+        "For any candidate preparing for an interview at a firm with an active Hong Kong capital markets practice, knowing that the city raised HK$328 billion in IPO proceeds in the first seven months of 2026 is essential commercial context. Saying Hong Kong is having its best IPO run since 2019 and backing it up with specific data is the kind of precision interviewers notice and remember."
+      ],
+      "sources": [
+        {
+          "title": "Xinhua English: HKEX IPO Market Raises HK$328.2 Billion in First Seven Months (6 Aug 2026)",
+          "url": "https://english.news.cn/20260806/6aa57f6cd45c46cfb9fec14cdf1c8458/c.html"
+        },
+        {
+          "title": "China Daily Asia: HK IPO Fundraising Soars 154% in First Seven Months (6 Aug 2026)",
+          "url": "https://www.chinadailyasia.com/hk/article/637567"
+        }
+      ]
+    },
+    {
+      "id": "2026-W32-010",
+      "headline": "5.1% in Six Months: Hong Kong Set to Raise Its Full-Year Growth Target After Exports Supercharge First Half",
+      "week": "2026-W32",
+      "weekLabel": "3–9 Aug 2026",
+      "date": "2026-08-03",
+      "region": "HK",
+      "practiceAreas": [
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "Financial Secretary Paul Chan announced on August 3, 2026, that the Hong Kong government plans to raise its full-year GDP growth forecast following a stronger-than-expected 5.1% expansion in the first half of 2026. GDP (gross domestic product) is the total value of all goods and services produced in an economy in a given period; a 5.1% increase means Hong Kong's economy was 5.1% larger in the first half of 2026 than in the first half of 2025. The growth was driven primarily by a 28.8% surge in total exports, as Hong Kong benefited from its role as a re-export hub during a period of elevated global trade activity ahead of further US tariff adjustments. The government's previous full-year forecast of 2.5-3.5% was set before the trade-driven surge became apparent; the revised estimate may reach 4% or higher. Detailed first-half economic statistics are due to be released on August 14, 2026.",
+      "whatItMeans": "GDP (gross domestic product) is the total value of all final goods and services produced within an economy over a specific time period, usually measured quarter by quarter or year by year; it is the broadest single measure of an economy's size and health. A GDP forecast is a government or institution's estimate of how fast the economy will grow in the current year, expressed as a percentage change from the previous year; revising the forecast upward means the economy is growing faster than originally expected. Exports are goods and services sold to foreign buyers; Hong Kong's total export figures include domestic exports (goods actually made in Hong Kong) and re-exports (goods produced elsewhere that pass through Hong Kong's port and are shipped on to other destinations). Re-exports are particularly important for Hong Kong because the city serves as a major logistics and distribution hub for Chinese and Asian manufactured goods moving to global markets.",
+      "clients": [
+        "Companies considering whether to invest in Hong Kong, expand their local operations, or increase headcount have a positive macro signal to factor into their planning. A 5.1% first-half growth rate, led by strong exports, shows the city's economy is expanding at a pace well above the start-of-year expectations. For boards reviewing their Asia Pacific strategy, this data supports the case for maintaining or growing a Hong Kong presence.",
+        "Banks and financial institutions with Hong Kong-based clients benefit from higher economic activity because growing businesses borrow more, transact more, and need more financial services. Higher GDP means more corporate revenue, which feeds into increased demand for trade finance, treasury services, and credit. Banks that pulled back their Hong Kong exposure during the difficult years of 2023 to 2025 may be revisiting those decisions.",
+        "Real estate investors and developers can read stronger GDP data as a signal that the commercial property market may eventually catch up with the residential recovery. Higher economic output typically precedes rising demand for office space as companies take on more staff; the office vacancy problem that has persisted in Hong Kong may gradually ease if growth continues at this pace. The correlation is not immediate, but macro data like this informs long-term capital allocation decisions."
+      ],
+      "lawFirms": [
+        "A stronger Hong Kong economy is good for the breadth of work across all practice areas, from M&A and capital markets to dispute resolution and banking. Firms tend to be busiest when the economy is growing because more deals get done, more credit is extended, and more companies have the confidence to take on risk. Partners tracking the economic cycle use data like this to decide when to bring in lateral hires or expand practice groups.",
+        "The export-driven nature of this growth cycle is particularly relevant for trade finance, logistics, and cross-border regulatory practices, which benefit directly when more goods flow through Hong Kong. Lawyers advising on customs compliance, shipping documentation, and Letters of Credit see higher volumes when exports surge. That creates steady instruction work for firms with a trade-law or trade-finance capability.",
+        "For candidates, being able to cite Hong Kong's first-half GDP growth rate and explain what is driving it, the export surge, the CGB futures launch, the IPO recovery, is a demonstration of the commercial awareness that law firms say they want but rarely find. These numbers are not hard to learn, but they require the habit of reading financial news regularly. The candidates who build that habit are the ones who get offers."
+      ],
+      "sources": [
+        {
+          "title": "The Standard: Hong Kong Lifts 2026 GDP Forecast, Offshore CGB Futures Debut August 3 (3 Aug 2026)",
+          "url": "https://www.thestandard.com.hk/finance/article/338822/Hong-Kong-lifts-2026-GDP-forecast-offshore-CGB-Futures-debut-August-3"
+        },
+        {
+          "title": "South China Morning Post: Hong Kong to Raise Annual GDP Forecast After Robust Growth in First Half (3 Aug 2026)",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362688/hong-kong-raise-annual-gdp-forecast-after-robust-growth-first-half-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-W32-012",
+      "headline": "Home Sales Deliver HK$41 Billion in Profit as Sellers Cash In on Five-Year High in Resale Activity",
+      "week": "2026-W32",
+      "weekLabel": "3–9 Aug 2026",
+      "date": "2026-08-04",
+      "region": "HK",
+      "practiceAreas": [
+        "Real Estate"
+      ],
+      "whatsTheNews": "Data published on August 4, 2026, showed that secondary residential property transactions at a profit reached a five-year high in the first half of 2026, with 13,795 profitable resales generating a combined gain of HK$41.2 billion. A secondary market resale is when a homeowner sells a property they already own, as opposed to buying a newly built flat from a developer (a primary market transaction). Of those profitable resales, sellers made an average gain of HK$2.99 million, representing approximately 55% above their original purchase price; 68% of all resale transactions in the period were profitable. The recovery follows a trough in 2023 and 2024 when falling property prices pushed many Hong Kong homeowners into negative equity, a situation where the value of the property falls below the outstanding mortgage balance. The rebound in resale profits reflects an approximately 18% recovery in residential prices from their recent low point.",
+      "whatItMeans": "A secondary transaction is a resale by someone who already owns the property (the seller bought it previously and is now selling it on), while a primary transaction is a purchase directly from a developer of a newly built unit. Negative equity occurs when the outstanding amount owed on a mortgage exceeds the current market value of the property; in that situation, the owner cannot sell without still owing money to the bank after the sale proceeds are applied to the loan balance. A paper gain (or unrealised gain) is the increase in value of an asset that the owner has not yet received as cash because they have not sold; in this data it refers to the profit that sellers crystallised when they completed their resale. Conveyancing is the legal process of transferring ownership of a property from a seller to a buyer, involving the preparation, review, and execution of legal documents.",
+      "clients": [
+        "Existing homeowners in Hong Kong who bought before the price recovery now hold meaningful unrealised gains. Sellers who transacted in the first half of 2026 captured an average 55% uplift; those who have not yet sold can consider whether this is the right time to realise that profit, downsize, or upgrade. The decision involves assessing both current prices and reasonable expectations about whether the recovery will continue at the same pace.",
+        "Mortgage lenders benefit from a recovering property market because the value of their collateral rises above the outstanding loan balance. Lenders who had large portfolios of negative equity mortgages during 2023 and 2024 are seeing their risk exposure normalise. This improvement in collateral quality makes banks more willing to extend new credit to prospective buyers, which in turn fuels the next round of transactions.",
+        "Real estate agents, surveyors, and other property professionals who earn transaction-based fees see their income recover directly when resale volumes and prices rise together. Thirteen thousand profitable transactions in six months is a significant pipeline of conveyancing work, valuation mandates, and agency commissions. The data suggests that the deal-flow problems of 2023 and 2024 are clearly behind the sector."
+      ],
+      "lawFirms": [
+        "Conveyancing is a core revenue stream for many Hong Kong law firms, particularly mid-size practices that serve individual property buyers and sellers. A five-year high in profitable resales, with nearly 14,000 transactions in six months, means a sustained increase in conveyancing instructions. Firms that managed down their property teams during the lean years may need to rebuild capacity to serve the volume.",
+        "Banking teams advising on mortgage restructuring and property-backed lending will shift from defensive mandates to growth-oriented work as the market recovers. When homeowners hold positive equity again, they can refinance at better rates, draw on equity release facilities, and even use their property as collateral for business borrowing. That creates a richer set of advisory opportunities than the purely defensive work that dominated 2023 and 2024.",
+        "For candidates interested in real estate practice, the current cycle is a textbook example of how property markets move through phases of distress, recovery, and growth, each generating different types of legal work. Understanding the distinction between negative equity advice (defensive), conveyancing (transactional), and property finance (capital-raising) gives candidates a coherent story about why they want to join a real estate team."
+      ],
+      "sources": [
+        {
+          "title": "Dimsum Daily: Hong Kong Home Resales Surge to Five-Year High as Sellers Bank HK$41.2bn Profit in First Half (4 Aug 2026)",
+          "url": "https://www.dimsumdaily.hk/hong-kong-home-resales-surge-to-five%E2%80%91year-high-as-sellers-bank-hk41-2bn-profit-in-first-half/"
         }
       ]
     }
