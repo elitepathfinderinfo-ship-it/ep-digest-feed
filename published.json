@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10",
+  "generatedAt": "2026-08-16",
   "items": [
     {
       "headline": "Hong Kong exports rocket 40.8% in May as the world keeps buying AI gear",
@@ -4202,6 +4202,191 @@
         {
           "title": "Dimsum Daily: Hong Kong Home Resales Surge to Five-Year High as Sellers Bank HK$41.2bn Profit in First Half (4 Aug 2026)",
           "url": "https://www.dimsumdaily.hk/hong-kong-home-resales-surge-to-five%E2%80%91year-high-as-sellers-bank-hk41-2bn-profit-in-first-half/"
+        }
+      ]
+    },
+    {
+      "id": "2026-W33-001",
+      "headline": "Cartel Hunters Return: Competition Watchdog Raids 12 More Premises in HK$500 Million Building Maintenance Probe",
+      "week": "2026-W33",
+      "weekLabel": "10–16 Aug 2026",
+      "date": "2026-08-13",
+      "region": "HK",
+      "practiceAreas": [
+        "Competition"
+      ],
+      "whatsTheNews": "Hong Kong's Competition Commission carried out a second wave of searches across 12 premises on August 13, 2026, targeting companies suspected of bid-rigging in building management and maintenance contracts worth around HK$500 million. Bid-rigging is when competing firms secretly coordinate their tender bids so one of them wins at an inflated price, cheating the buyer out of genuine competition. This follows a first wave of raids in July 2026, which means the Commission is building a broader case rather than treating the earlier action as a one-off. The probe covers multiple companies that allegedly colluded on contracts tendered by property management firms and owners' corporations across Hong Kong. Under the Competition Ordinance (Hong Kong's main competition law, passed in 2015), bid-rigging falls under the First Conduct Rule, which bans agreements between businesses that restrict or distort competition.",
+      "whatItMeans": "The Competition Commission is Hong Kong's independent regulator that investigates businesses suspected of breaking competition law and can take them to the Competition Tribunal for penalties. A tender is a formal process where a buyer invites firms to submit sealed bids for a contract, with the best bid meant to win; bid-rigging defeats this because the bidders secretly agree in advance who will win and at what price, so the buyer overpays. The Competition Ordinance is Hong Kong's main competition law, and its First Conduct Rule bans agreements between businesses that prevent, restrict, or distort competition, treating bid-rigging as one of the most serious breaches. An owners' corporation is the legal body formed by a building's flat owners to manage shared areas and hire contractors, so it is often the party paying for the maintenance work at the centre of these cases. Firms found liable can be fined up to 10% of their annual Hong Kong turnover for up to three years of the conduct.",
+      "clients": [
+        "Any company that tenders for building maintenance or management contracts in Hong Kong faces real legal exposure if its staff have discussed bid pricing with rivals, even informally. The Commission can seek a fine of up to 10% of local turnover per year of the infringement from the Competition Tribunal, which is Hong Kong's specialist court for competition cases. Businesses operating in property management, facilities management, or construction services should treat this as a signal to audit their procurement and tendering practices now.",
+        "Owners' corporations and property management companies that commissioned the allegedly rigged tenders may also have legal options to recover losses. If overpricing is proven, the victims of bid-rigging can bring follow-on civil damages claims, meaning separate lawsuits to recover money paid above market rates. That is a direct financial benefit to clients in the property sector who engaged any of the raided firms.",
+        "For companies currently bidding on public or private property contracts, the raids create short-term uncertainty about which competitors are under investigation and whether ongoing tenders may be paused or re-run. Boards of companies in the construction and facilities sector should brief legal counsel quickly on what internal communications might be requested under a Section 41 notice, which is the Commission's formal power to compel document production."
+      ],
+      "lawFirms": [
+        "Competition practices at Hong Kong firms are likely to receive instruction letters soon, because every company that received a search warrant will need legal advice on its rights during the search, how to preserve legal privilege over internal documents, and what to say (or not say) to investigators. This work falls squarely in the competition advisory space, which is a relatively small but high-value practice at firms like Linklaters, Freshfields, and Slaughter and May in Hong Kong.",
+        "If the Commission files a case before the Competition Tribunal, the matter becomes full litigation: witness statements, disclosure exercises, economic expert evidence, and hearings that can run for weeks. That is significant work for competition litigators, and the HK$500 million contract value suggests the fine could reach into the tens of millions of Hong Kong dollars. Trainee and junior associate experience in competition investigations is directly marketable.",
+        "A wave of competition enforcement also prompts other businesses to instruct firms on compliance reviews, sometimes called leniency applications (where a party self-reports in exchange for reduced penalties). Candidates who can show they understand how a competition investigation unfolds, from dawn raid to Tribunal hearing, will stand out in interviews with firms that have a competition practice."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Free Press",
+          "url": "https://hongkongfp.com/2026/08/13/hong-kong-competition-watchdog-launches-raids-over-suspected-hk500-million-renovation-bid-rigging/"
+        },
+        {
+          "title": "Dimsum Daily",
+          "url": "https://www.dimsumdaily.hk/competition-commission-expands-hunter-bid-rigging-raids/"
+        },
+        {
+          "title": "Concurrences",
+          "url": "https://www.concurrences.com/en/bulletin/news-issues/preview/the-hong-kong-competition-authority-carries-out-a-second-round-of-searches"
+        }
+      ]
+    },
+    {
+      "id": "2026-W33-002",
+      "headline": "First in Class: Hong Kong's Licensed HKD Stablecoin HKDAP Goes Live on Ethereum",
+      "week": "2026-W33",
+      "weekLabel": "10–16 Aug 2026",
+      "date": "2026-08-12",
+      "region": "HK",
+      "practiceAreas": [
+        "FinTech",
+        "Financial Regulatory"
+      ],
+      "whatsTheNews": "Anchorpoint, a consortium that includes Standard Chartered and Hong Kong Telecommunications, launched HKDAP on August 12, 2026, making it the world's first stablecoin issued under a formal regulatory licence for Hong Kong dollars. A stablecoin is a type of digital currency whose value is pegged to a traditional currency, in this case the Hong Kong dollar, so one HKDAP always equals one HKD. The licence was issued under Hong Kong's Stablecoins Ordinance, which came into force on August 1, 2025 and requires issuers to hold full reserves in HKD assets and meet strict redemption, disclosure, and governance standards. HKDAP currently operates on Ethereum, the world's most widely used public blockchain, and is available only to institutional clients such as banks, funds, and large corporations, with retail access planned for a later phase. This makes Hong Kong one of the first jurisdictions globally to have a regulated, live stablecoin product.",
+      "whatItMeans": "A consortium is a group of companies that join together to run a single venture, here to issue a digital currency. A stablecoin holds a steady value by being pegged one-to-one to a real currency, and it stays trustworthy only if the issuer actually holds enough safe assets in reserve to redeem every coin for real money on demand; redemption means the holder's right to swap a coin back for the Hong Kong dollars it represents. The Stablecoins Ordinance is Hong Kong's law requiring any licensed issuer to hold full reserves, keep them separate from its own money, and meet strict disclosure and governance standards, which is what separates a regulated stablecoin from the many unbacked crypto tokens that have collapsed. A blockchain is a shared digital ledger, maintained across many computers, that records who owns what without a central authority in the middle, and Ethereum is the most widely used public blockchain. Institutional clients are professional firms such as banks and funds, as opposed to retail, which means ordinary members of the public.",
+      "clients": [
+        "For large corporate treasuries and financial institutions, HKDAP offers a way to move Hong Kong dollar value across blockchain networks in real time, without the settlement delays that come with traditional bank transfers. Real-time settlement means a company in, say, Singapore can receive HKD from a Hong Kong counterparty and deploy it into a smart contract in seconds rather than hours. That matters for trade finance, derivatives margin calls, and structured product settlement, all areas where speed and certainty of payment directly affect the cost of doing business.",
+        "Asset managers and fund administrators who deal in tokenised assets, which are traditional financial instruments recorded on a blockchain, will benefit from having a regulated HKD stablecoin to use as settlement currency. Without a regulated on-chain HKD, tokenised bond or fund transactions have to settle in overseas stablecoins (like USDC) or wait for traditional bank wires, which creates currency and timing risk. HKDAP closes that gap.",
+        "Institutional clients also gain regulatory certainty they previously lacked. Because HKDAP is issued under a licence, counterparties and auditors can treat it as a known, regulated instrument rather than an unregulated crypto asset. That matters for financial reporting and for regulated entities (like banks) whose internal risk frameworks previously made it difficult to hold or transact in unlicensed stablecoins."
+      ],
+      "lawFirms": [
+        "The Stablecoins Ordinance created an entirely new licensing regime, which means firms advising financial institutions, payment companies, or tech businesses need lawyers who understand both digital assets and financial services regulation. Licence applications, ongoing compliance obligations (such as reserve management agreements and disclosure documents), and regulatory correspondence with the HKMA all generate legal work that did not exist two years ago.",
+        "Any stablecoin issuer that wants to list its product on an exchange, integrate it into a trading platform, or offer it to retail investors will need legal advice on how its product interacts with the Securities and Futures Ordinance (SFO), which governs investment products in Hong Kong, and with the Payment Systems and Stored Value Facilities Ordinance, which governs payment instruments. The regulatory mapping exercise alone can take weeks and requires lawyers with cross-practice expertise.",
+        "For trainees, the launch of a regulated product like HKDAP signals that digital assets work is moving from niche to mainstream in Hong Kong. Firms with FinTech and financial regulatory practices are likely to grow these teams, and candidates who can explain stablecoin mechanics, reserve requirements, and the difference between a payment token and a security token will be better placed in interviews."
+      ],
+      "sources": [
+        {
+          "title": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin"
+        },
+        {
+          "title": "Genfinity",
+          "url": "https://genfinity.io/2026/08/12/anchorpoint-hkdap-hong-kong-first-regulated-hkd-stablecoin/"
+        },
+        {
+          "title": "TechTimes",
+          "url": "https://www.techtimes.com/articles/324358/20260813/hong-kong-dollar-stablecoin-hkdap-goes-live-ethereum-institutions-only-now.htm"
+        }
+      ]
+    },
+    {
+      "id": "2026-W33-003",
+      "headline": "Growth Holds, Forecast Rises: Hong Kong Revises 2026 GDP Outlook to 3.5-4.5% as Exports Surge",
+      "week": "2026-W33",
+      "weekLabel": "10–16 Aug 2026",
+      "date": "2026-08-14",
+      "region": "HK",
+      "practiceAreas": [
+        "Banking & Finance",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "The Hong Kong government published its second-quarter economic report on August 14, 2026, showing that GDP (gross domestic product, the total value of goods and services produced in Hong Kong) grew 4.3% year-on-year in Q2 2026, bringing the first-half average to roughly 5%. The government simultaneously upgraded its full-year growth forecast from a range of 2.5-3.5% to a new range of 3.5-4.5%, reflecting stronger-than-expected external demand. Merchandise exports surged 28.8% year-on-year in the second quarter, driven primarily by electronics, with analysts pointing to front-loading by US importers ahead of expected tariff changes as a key factor. On a quarter-on-quarter basis, GDP slipped 0.6% from Q1 to Q2, the first such dip since Q3 2022, which the government attributed to a high base effect from an unusually strong Q1. Overall, the data signal that Hong Kong's economy is running ahead of most forecasts made at the start of the year.",
+      "whatItMeans": "GDP measures the total value of everything an economy produces, and its growth rate is the main gauge of whether an economy is expanding or shrinking. Year-on-year means comparing a quarter with the same quarter a year earlier, which smooths out seasonal patterns, while quarter-on-quarter compares it with the immediately preceding quarter, which captures short-term momentum; the two can point in different directions, as they did here. A base effect happens when an unusually high or low figure in an earlier period distorts the percentage change measured against it, so the quarter-on-quarter dip reflects how strong the previous quarter was rather than genuine weakness. Front-loading means buyers rushing to import goods sooner than they normally would, in this case to beat expected increases in tariffs, which are taxes a government charges on imported goods. A forecast range is the government's official estimate of full-year growth, and raising it signals that officials now expect the economy to do better than they thought at the start of the year.",
+      "clients": [
+        "A stronger-than-expected growth trajectory improves business confidence, which historically correlates with higher corporate investment, more M&A activity, and greater appetite for external financing. Companies that had deferred expansion plans pending economic clarity may now accelerate them. For law firm clients in sectors like retail, logistics, and manufacturing, a more optimistic macro backdrop often means green-lighting projects that were on hold.",
+        "The surge in goods exports, concentrated in electronics and tech hardware, reflects Hong Kong's continued role as a key re-export and logistics hub for mainland Chinese manufacturers. Companies using Hong Kong as a trading platform benefit when export volumes rise because it validates the jurisdiction's continued commercial relevance despite geopolitical pressure. Clients with supply chains routed through Hong Kong have reason to maintain, rather than restructure, those arrangements.",
+        "The government's upgraded forecast also signals that interest rates in Hong Kong are likely to remain relatively stable. Because Hong Kong's currency is pegged to the US dollar under the Linked Exchange Rate System, HK dollar interest rates track US rates closely. A stronger HK economy gives the government less reason to seek rate relief and more room to absorb any US monetary policy shifts without triggering capital outflows."
+      ],
+      "lawFirms": [
+        "Stronger GDP data tend to unlock deal activity that paused during periods of uncertainty. Banking and finance teams, corporate teams, and capital markets teams at Hong Kong firms are likely to see an uptick in mandates as companies move from planning to execution. A law firm's revenue follows deal flow: when the economy grows, so does the volume and complexity of transactions needing legal advice.",
+        "The export surge story is particularly important for cross-border and trade practices. Companies re-routing goods through Hong Kong to manage tariff exposure need advice on customs classification, transfer pricing (how prices are set within a corporate group), and whether their arrangements comply with rules of origin requirements. That work spans tax, trade, and regulatory teams at major firms.",
+        "For candidates, the ability to connect macroeconomic data to specific practice area work is a core commercial awareness skill tested at every interview. Knowing that a 4.3% GDP beat, combined with an export surge, is likely to drive M&A and financing mandates, and knowing which teams handle that work, is exactly what a partner means when they ask 'what's going on in the Hong Kong market this week?'"
+      ],
+      "sources": [
+        {
+          "title": "Bastille Post",
+          "url": "https://www.bastillepost.com/global/article/6050390-hong-kongs-gdp-grows-4-3-in-q2-2026-amid-strong-external-trade-and-domestic-demand"
+        },
+        {
+          "title": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/economy/hong-kong-logs-4.3-gdp-growth-for-q2-expects-solid-second-half"
+        }
+      ]
+    },
+    {
+      "id": "2026-W33-008",
+      "headline": "Jane Street Stays Out: Hong Kong Clarifies Prop Trading Firms Won't Benefit from Fund Manager Tax Break",
+      "week": "2026-W33",
+      "weekLabel": "10–16 Aug 2026",
+      "date": "2026-08-12",
+      "region": "HK",
+      "practiceAreas": [
+        "Tax",
+        "Funds"
+      ],
+      "whatsTheNews": "Hong Kong's Financial Services and the Treasury Bureau (FSTB) confirmed on August 12, 2026 that a bill expanding profits tax exemptions for fund managers will not extend to proprietary trading firms. Proprietary trading means a firm trades financial instruments using its own money to make profits for itself, rather than managing money on behalf of external clients. The bill, gazetted in June 2026, widens an existing tax exemption so that private equity funds, venture capital funds, hedge funds, private credit funds, digital asset funds, and funds investing in overseas property can all have their carried interest (a share of investment profits paid to fund managers) and performance fees exempt from Hong Kong profits tax. The exemption does not cover firms like Jane Street and Citadel, which trade their own capital rather than clients' money. The FSTB's August 12 statement closed off speculation, reported by the Financial Times on August 11, that prop trading firms might be included in the broadened regime.",
+      "whatItMeans": "Profits tax is the tax Hong Kong charges companies on the money they make, and a tax exemption removes certain income from that charge, which directly increases what the recipient keeps. This bill widens an existing exemption so that a range of investment funds can receive two forms of reward tax-free: carried interest, which is the slice of a fund's investment profits paid to the managers who ran it, usually around 20% of the gains, and performance fees, which are extra charges levied when a fund beats a target return. The point of exempting these is to attract fund managers to base themselves in Hong Kong rather than in rival centres such as Singapore. Proprietary trading firms trade their own money purely for their own profit and manage nothing for outside clients, so the government has decided they fall outside the purpose of a fund manager tax break and will not qualify. The distinction draws a clear line between managing other people's investments, which Hong Kong wants to encourage, and trading for one's own account, which gets no special treatment.",
+      "clients": [
+        "For asset managers and fund sponsors who qualify under the expanded exemption, this is a direct cost saving. Profits tax in Hong Kong is 16.5% for corporations, so exempting carried interest and performance fees from this tax can meaningfully improve after-tax returns for fund managers based in Hong Kong, making the city more competitive with jurisdictions like the Cayman Islands, Singapore, and Ireland as a fund domicile.",
+        "For limited partners (the external investors who put money into funds, such as pension funds, sovereign wealth funds, and endowments), the expanded exemption may reduce the fees they are charged if managers pass on some of the tax saving. More importantly, it signals that Hong Kong intends to grow its asset management industry, which indirectly benefits limited partners who want a wider range of Hong Kong-domiciled fund options.",
+        "For prop trading firms that were hoping to be included, the FSTB's clarification closes a potential avenue for tax planning. Firms like Jane Street that have significant Hong Kong operations will continue to pay profits tax on their trading gains in the ordinary way. The decision also reflects a policy choice: Hong Kong wants to attract external-facing fund management, not just high-frequency traders who cycle capital internally."
+      ],
+      "lawFirms": [
+        "Tax teams at Hong Kong firms are the immediate beneficiaries of any new tax regime, because every qualifying fund manager needs advice on whether and how it fits within the exemption, what documentation it needs to maintain to prove eligibility, and how to restructure its operations to maximise the tax benefit. A regime that expands to private credit, digital assets, and overseas property for the first time is particularly interesting because these are asset classes where many managers have not previously engaged a Hong Kong tax lawyer.",
+        "Funds practices at Hong Kong firms will see related work: the exemption applies to the fund vehicle itself, so fund formation lawyers (who draft the limited partnership agreements, subscription documents, and investment management agreements that govern a fund) need to ensure those documents are drafted in a way that preserves the tax benefit. That means reviewing and, in many cases, amending existing fund documents.",
+        "For candidates, the ability to explain what carried interest is (a share of profits paid to a fund manager once investors have received a return above a threshold, sometimes called the hurdle rate), why prop trading is different from fund management, and what profits tax exemption means for a fund manager's business model, demonstrates exactly the kind of tax and funds literacy that firms in those practice areas test at interview."
+      ],
+      "sources": [
+        {
+          "title": "Bloomberg (Aug 12)",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-12/hong-kong-says-tax-break-plans-won-t-include-prop-trading-firms"
+        },
+        {
+          "title": "Bloomberg (Aug 11)",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-11/hong-kong-may-expand-tax-breaks-to-trading-firms-ft-says"
+        },
+        {
+          "title": "Hedgeweek",
+          "url": "https://www.hedgeweek.com/hong-kong-rules-out-prop-trading-firms-from-planned-fund-tax-breaks/"
+        }
+      ]
+    },
+    {
+      "id": "2026-W33-010",
+      "headline": "Policy Gap Closes: China's Offshore Insurance Tax Enforcement Signals a Structural Shift for Hong Kong Insurers",
+      "week": "2026-W33",
+      "weekLabel": "10–16 Aug 2026",
+      "date": "2026-08-13",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "Chinese tax authorities in at least two cities began enforcing a 20% personal income tax on gains from offshore insurance policies held by mainland residents, according to an analysis published by Benzinga on August 13, 2026. An offshore insurance policy in this context means a life insurance or savings product bought in Hong Kong, rather than on the mainland, because Hong Kong offers products that are often cheaper, denominated in foreign currencies, and structured to build up cash value over time. Mainland Chinese buyers have long purchased these products as a form of wealth management and currency diversification. The tax enforcement uses data collected under the Common Reporting Standard (CRS), an international framework under which Hong Kong insurers share policyholder information with mainland Chinese tax authorities. The policy itself is not new (a 20% tax on offshore investment gains was always theoretically applicable), but the active use of CRS data to identify and assess individual policyholders is new. Major Hong Kong insurers including AIA, Prudential, and HSBC saw share price declines of between 7% and 13% in London on the news.",
+      "whatItMeans": "An offshore insurance policy here means a life or savings plan bought in Hong Kong by someone who lives on the mainland, often chosen because it can be held in foreign currency and builds up cash value, which is a sum inside the policy that grows over time and can be withdrawn or borrowed against. Mainland buyers have used these plans to spread their wealth outside the yuan. Personal income tax is the tax an individual owes on their gains, and the key change is not a new tax but new enforcement: the 20% charge always existed on paper, and authorities are now actually collecting it. They can do so because of the Common Reporting Standard, an international agreement under which financial institutions automatically report details of accounts and policies held by foreign residents to those residents' home tax authorities, so Hong Kong insurers now hand mainland tax offices the data needed to identify individual policyholders. Shares in AIA, Prudential, and HSBC fell because investors expect the tax to make these popular products less attractive, reducing future sales.",
+      "clients": [
+        "For mainland Chinese individuals who hold Hong Kong insurance policies, the immediate practical effect is potential back-assessment of unpaid tax on dividends, interest income, and gains upon surrender (cancelling the policy early for its cash value). The scope of the tax depends on how the gain is calculated: Chinese tax rules treat the difference between premiums paid and payout received as a capital gain, subject to the 20% rate. Advisers to high-net-worth mainland clients are urgently reviewing how each policy is documented and what tax filings may be needed.",
+        "For Hong Kong insurers, the enforcement creates two risks. First, it may reduce new business from mainland buyers if the tax erodes the after-tax advantage of holding a Hong Kong policy. Mainland buyers represent a significant and growing share of Hong Kong insurance premium income, so even a marginal reduction in demand affects revenue. Second, insurers face potential reputational and regulatory risk if customers feel they were not adequately informed about the tax implications of cross-border policies when they purchased them.",
+        "For other financial institutions that use CRS data as a compliance mechanism (banks, fund managers, and trustees operating across the Hong Kong-mainland border), this episode is a reminder that data shared under CRS is being actively used by revenue authorities. Clients with complex cross-border wealth structures should review their CRS filing position and ensure they have made appropriate disclosures, because enforcement risk has clearly increased."
+      ],
+      "lawFirms": [
+        "Tax advisory and disputes practices at Hong Kong firms will see demand from two directions: mainland-facing clients who need help understanding their tax position and potentially responding to tax authority enquiries, and institutional insurance clients who need legal advice on product disclosure obligations, regulatory risk, and their own CRS compliance. Both are lucrative instruction types for firms with a strong private client tax or financial services regulatory practice.",
+        "The cross-border element makes this particularly interesting for law firms with a China practice. Chinese tax law, Hong Kong insurance regulation, and international CRS standards all interact in a way that requires coordinated advice from lawyers who understand multiple systems simultaneously. Firms that can offer that coordination, rather than referring clients between separate advisers, have a significant commercial advantage.",
+        "For candidates, this story is a useful example of how tax law, insurance regulation, and international information-sharing frameworks combine in practice. Being able to explain what CRS is, why a 20% tax on offshore insurance gains is not a new legal rule but represents new enforcement activity, and what the commercial consequence is for listed insurers, is the kind of multi-dimensional analysis that impresses interviewers at firms with broad Hong Kong and China practices."
+      ],
+      "sources": [
+        {
+          "title": "Benzinga",
+          "url": "https://www.benzinga.com/Opinion/26/08/61186806/chinas-tax-crackdown-erodes-edge-for-hong-kong-insurers"
+        },
+        {
+          "title": "Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-08-05/exclusive-china-widens-tax-net-to-offshore-insurance-102471550.html"
+        },
+        {
+          "title": "South China Morning Post",
+          "url": "https://www.scmp.com/business/banking-finance/article/3363348/beijing-says-20-offshore-insurance-tax-not-new-and-does-not-target-hong-kong"
         }
       ]
     }
