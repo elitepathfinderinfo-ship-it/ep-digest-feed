@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30",
+  "generatedAt": "2026-09-06",
   "items": [
     {
       "headline": "Hong Kong exports rocket 40.8% in May as the world keeps buying AI gear",
@@ -4681,6 +4681,160 @@
         {
           "title": "Fed Chair Warsh Speaks at Jackson Hole Economic Policy Symposium (PBS NewsHour, 28 Aug 2026)",
           "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-warsh-speaks-at-jackson-hole-economic-policy-symposium"
+        }
+      ]
+    },
+    {
+      "id": "2026-W36-001",
+      "headline": "Fifty Percent Rule: SFC Labels Private Market Heavy Funds as Complex Products",
+      "week": "2026-W36",
+      "weekLabel": "31 Aug–6 Sep 2026",
+      "date": "2026-09-03",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Funds"
+      ],
+      "whatsTheNews": "The Securities and Futures Commission issued a circular on 3 September 2026 setting out enhanced requirements for SFC authorised funds with exposure to private credit and private equity, which it groups together as private market assets. Any fund whose total direct and indirect exposure to those assets reaches 50 percent or more of net asset value will now be treated as a complex product, which triggers the SFC's selling rules, including a suitability assessment for every investor. Below that line the SFC may still classify a fund as complex case by case, weighing portfolio composition, liquidity and the nature of the assets. The regulator said it was concerned that funds were gaining exposure through layered structures and instruments such as business development companies and collateralised loan obligations that retail investors may not understand. Managers must now disclose the extent and risks of that exposure in offering documents and review existing funds as soon as practicable.",
+      "whatItMeans": "The SFC is Hong Kong's securities regulator, and an SFC authorised fund is one it has approved for sale to the general public rather than only to professional investors. Private credit means loans made by funds rather than banks, and private equity means stakes in companies that are not listed on a stock exchange; together these are private market assets, which are harder to sell quickly and harder to value than listed shares. Net asset value is the total value of everything a fund holds, so the 50 percent test asks how much of the fund sits in these hard to trade assets. A complex product is a regulatory label for an investment whose terms or risks are not easily understood, and once a fund carries that label, anyone selling it must first check it suits the buyer, a step called a suitability assessment. Business development companies and collateralised loan obligations are vehicles that package private loans into tradeable securities, which is the layered exposure the SFC worries retail buyers cannot see through.",
+      "clients": [
+        "For fund managers running products with private credit exposure, crossing the 50 percent line now means their fund is harder to sell to retail investors and its documents must be rewritten. Some will trim exposure to stay below the threshold, others will accept the complex label and a narrower buyer base. Either way, product design has to change.",
+        "For banks and brokers that distribute funds, a complex product cannot simply be sold on request; staff must run a suitability check on each customer first. That adds process, training and record keeping to every sale. Distributors must also decide which of their shelves can carry these products at all.",
+        "For retail investors, the change is protective: they will see clearer disclosure of what a fund really holds and be steered away from products that do not fit their risk appetite. It also signals the regulator's view that private credit, a booming area, carries liquidity and valuation risks the public may underestimate."
+      ],
+      "lawFirms": [
+        "Funds and asset management teams will be busy reviewing fund offering documents and key facts statements, calculating exposure against the new test and advising whether a product should be restructured or reclassified. Every affected fund needs this work done as soon as practicable. Junior lawyers are the ones combing through portfolios and drafting the updated disclosures.",
+        "Financial regulatory teams advise the distributors, since the complex product label changes how banks and brokers may sell these funds and what suitability records they must keep. Firms with both funds and regulatory strength can serve both sides. That breadth wins the instruction.",
+        "A candidate should care because private credit is one of the hottest areas in finance and this is regulation catching up with it. Being able to explain the 50 percent test and why liquidity and valuation worry the SFC shows real understanding of where funds law is heading."
+      ],
+      "sources": [
+        {
+          "title": "Securities and Futures Commission",
+          "url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR131"
+        },
+        {
+          "title": "South China Morning Post",
+          "url": "https://www.scmp.com/business/banking-finance/article/3366260/hong-kong-regulator-reclassifies-certain-funds-exposure-private-markets"
+        }
+      ]
+    },
+    {
+      "id": "2026-W36-004",
+      "headline": "Kimi Goes Public: AI Star Moonshot Files Quietly for a Hong Kong Listing",
+      "week": "2026-W36",
+      "weekLabel": "31 Aug–6 Sep 2026",
+      "date": "2026-09-03",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "IP / TMT"
+      ],
+      "whatsTheNews": "Moonshot AI, the Beijing developer of the Kimi chatbot, has confidentially filed a listing application with the Hong Kong stock exchange, sources told the South China Morning Post on 3 September 2026, targeting a listing as early as the first quarter of 2027 subject to approvals and market conditions. The company is also seeking to close a final pre IPO funding round that could value it at around US$50 billion, up from US$20 billion in May 2026, and the offering is reported to target roughly US$3 billion. In July 2026 Moonshot released Kimi K3, described as the world's largest open weight artificial intelligence model with more than 2.8 trillion parameters. Founded in 2023 by Yang Zhilin, the company counts Alibaba, Tencent, Meituan and China Mobile among its backers and had earlier moved its incorporation onshore ahead of the filing. Moonshot said it does not comment on market speculation.",
+      "whatItMeans": "An IPO is the first sale of a company's shares to the public on a stock exchange. A confidential filing lets a company submit its listing application without publishing it, so it can be reviewed by the exchange while keeping its finances private until closer to the launch, a route Hong Kong opened to all applicants in July 2026. A pre IPO funding round is a last private fundraising before listing, and the jump from a US$20 billion to a US$50 billion valuation in a few months shows how fast investors have repriced leading artificial intelligence companies. Valuation is the total price investors put on the whole business. An open weight model is one whose trained parameters, the numbers that encode what the model has learned, are released so others can run and build on it, and 2.8 trillion parameters marks it as unusually large. Moving incorporation onshore means shifting the company's legal home from an offshore jurisdiction into mainland China, a step some Chinese technology firms now take before listing.",
+      "clients": [
+        "For Moonshot, a Hong Kong listing would give it public capital to fund the enormous computing costs of training frontier models and let early backers realise gains. It also raises its profile against domestic and American rivals. Timing the listing to strong sentiment is the key judgement.",
+        "For its backers such as Alibaba and Tencent, an IPO at a US$50 billion valuation would mark a large gain on their investments and set a benchmark for other artificial intelligence start ups they hold. Their support helps the deal. Their exit plans depend on it.",
+        "For investors and the wider market, a Moonshot listing would be one of the most closely watched artificial intelligence floats in Hong Kong and a test of appetite for loss making but fast growing model developers. Success would pull more of the sector to the city. A weak reception would cool it."
+      ],
+      "lawFirms": [
+        "Equity capital markets teams run the listing itself, drafting the prospectus, managing the confidential filing process and handling the exchange's questions on a business with unusual risks around technology, data and regulation. A flagship artificial intelligence IPO is a marquee mandate. Junior lawyers gain exposure to a cutting edge sector.",
+        "Corporate teams handle the pre IPO round and the onshore restructuring, which involves unwinding offshore holding structures and reorganising the group before it lists. That preparatory work is substantial and technical. Firms with strong China corporate practices win it.",
+        "A candidate should care because artificial intelligence listings are the defining capital markets story of the moment and Hong Kong is competing hard to host them. Explaining what a confidential filing is and why a company restructures onshore first shows genuine command of how these deals work."
+      ],
+      "sources": [
+        {
+          "title": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources"
+        }
+      ]
+    },
+    {
+      "id": "2026-W36-007",
+      "headline": "Shirt Trouble: Chelsea's USDC Sponsorship Tests Hong Kong's Stablecoin Marketing Ban",
+      "week": "2026-W36",
+      "weekLabel": "31 Aug–6 Sep 2026",
+      "date": "2026-09-06",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "FinTech",
+        "Financial Regulatory"
+      ],
+      "whatsTheNews": "Chelsea Football Club's sponsorship deal with Circle puts USDC stablecoin branding on its playing shirts for the 2026 to 2027 season, and the South China Morning Post reported on 6 September 2026 that Hong Kong fans and retailers are unsure whether wearing or selling the shirts breaches local law. Hong Kong's Stablecoins Ordinance, in force since 1 August 2025 and administered by the Hong Kong Monetary Authority, makes it illegal for any person to actively market the issue of unlicensed fiat referenced stablecoins to the public. Only Anchorpoint Financial and HSBC currently hold HKMA issuer licences, and USDC is not licensed in Hong Kong. The open question is whether ordinary conduct such as wearing a branded jersey or a shop stocking one could count as active marketing. One long time supporter said that after reading the law she still did not understand whether wearing the shirt was a problem.",
+      "whatItMeans": "A stablecoin is a digital currency designed to hold a steady value by being pegged to a traditional currency, and a fiat referenced stablecoin is one tied to a government issued currency such as the US dollar, which is what USDC is. The Stablecoins Ordinance is Hong Kong's law requiring anyone issuing such coins to the Hong Kong public to hold a licence from the HKMA, the city's central banking authority, and only two issuers have one so far. The Ordinance also makes it an offence to actively market unlicensed stablecoins to the public, a rule aimed at stopping promotion of coins that have not passed Hong Kong's checks. The difficulty is that the phrase active marketing is broad, and the law does not spell out whether a fan wearing a sponsor's logo or a shop selling official merchandise is marketing a coin or simply wearing a shirt. This is an example of extraterritorial friction, where a deal struck in London collides with rules written in Hong Kong, and it shows how widely drafted offences can reach into everyday conduct nobody intended to catch.",
+      "clients": [
+        "For sponsors and brands, the case shows that a global sports deal can create legal uncertainty in markets with strict financial promotion rules, even where no one is trying to sell anything locally. It pushes them to map where their branding might breach local law before signing. Compliance review becomes part of sponsorship due diligence.",
+        "For retailers, broadcasters and merchandise sellers in Hong Kong, the worry is whether stocking or showing the shirt exposes them to an offence, however unlikely enforcement may be. They need clear guidance to decide what to sell. Uncertainty itself is a cost.",
+        "For crypto companies, the episode highlights how far Hong Kong's licensing regime reaches and that unlicensed coins face real promotional limits here. It strengthens the case for seeking a Hong Kong licence. It also warns that marketing campaigns need local legal sign off."
+      ],
+      "lawFirms": [
+        "Fintech and financial regulatory teams are the ones asked to interpret how far the active marketing offence stretches and to advise sponsors, retailers and platforms on what they can safely do. A genuinely unclear point of law like this is where regulatory advice earns its fee. Junior lawyers research the Ordinance and the HKMA's guidance to build that view.",
+        "Commercial and sports law teams advise on the sponsorship contracts themselves, including clauses that deal with markets where the branding may be restricted. Drafting around regulatory risk is a real skill. Firms with both fintech and commercial strength can cover the whole issue.",
+        "A candidate should care because it is a vivid example of a new financial law producing an unexpected everyday question, exactly the sort of problem that tests a lawyer's judgement. Explaining what a fiat referenced stablecoin is and why the marketing ban is ambiguous shows sharp regulatory awareness."
+      ],
+      "sources": [
+        {
+          "title": "South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws"
+        }
+      ]
+    },
+    {
+      "id": "2026-W36-009",
+      "headline": "Quota Unlocked: Beijing Hands Out US$6.84 Billion for Mainland Money to Go Abroad",
+      "week": "2026-W36",
+      "weekLabel": "31 Aug–6 Sep 2026",
+      "date": "2026-09-02",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "Funds",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "China's State Administration of Foreign Exchange granted US$6.84 billion of new qualified domestic institutional investor quotas by the end of August 2026 to mutual fund houses, insurers and the wealth management arms of banks, the South China Morning Post reported on 2 September. Eighteen fund managers, including China Asset Management and GF Fund Management, each received US$100 million, and more than 20 bank wealth management subsidiaries were given quotas for the first time. Analysts read the round as opening legitimate outbound channels after a crackdown on non compliant offshore investing, at a time of strong household demand for diversification driven by falling property values and low bond returns at home. The regulator had pledged in July 2026 to increase overseas investment allocations. Hong Kong listed shares and Hong Kong domiciled funds are among the main destinations for this money.",
+      "whatItMeans": "China controls how much money can leave the country, a system known as capital controls, so mainland investors cannot simply buy foreign assets at will. The qualified domestic institutional investor scheme, or QDII, is one of the official gateways: approved institutions such as fund managers and insurers are given a quota, a fixed dollar amount they are allowed to invest abroad on behalf of their clients. The State Administration of Foreign Exchange is the regulator that hands out those quotas. A wealth management subsidiary is the arm of a bank that runs investment products for its customers, and giving more than 20 of them quotas for the first time widens the pool of institutions that can channel household savings overseas. The reference to non compliant offshore investing means informal or illegal routes people used to move money out, which the authorities have been closing while opening approved ones. Hong Kong benefits because its shares and funds are the most natural first stop for mainland money going abroad.",
+      "clients": [
+        "For mainland fund houses, insurers and bank wealth arms, new quota is a scarce and valuable asset that lets them launch overseas products for clients hungry for diversification. Those with quota can capture demand rivals cannot serve. Product launches will follow quickly.",
+        "For Hong Kong asset managers and distributors, more QDII money means more inflows into Hong Kong funds and shares and more partnerships with mainland institutions seeking products to fill their quota. It is a direct commercial opportunity. Positioning products for QDII buyers becomes a priority.",
+        "For Hong Kong listed companies, a larger pool of approved mainland investment supports demand for their shares and deepens liquidity. It reinforces the city's role as the gateway for Chinese capital. That flow underpins valuations across the market."
+      ],
+      "lawFirms": [
+        "Funds teams advise on structuring products that qualify for QDII investment and on the distribution arrangements between Hong Kong managers and mainland institutions holding quota. Each new quota round creates fresh product and partnership work. Junior lawyers help draft the fund documents and agreements.",
+        "Cross border regulatory teams interpret the rules of the QDII scheme and how they interact with Hong Kong requirements, advising both mainland institutions and their Hong Kong partners. Firms with joint mainland and Hong Kong capability are best placed. That dual reach wins the mandates.",
+        "A candidate should care because QDII is part of the plumbing that connects Chinese savings to Hong Kong markets, alongside schemes such as Stock Connect. Explaining what a quota is and why Beijing opens approved channels while closing informal ones shows a real grasp of how cross border money moves."
+      ],
+      "sources": [
+        {
+          "title": "South China Morning Post",
+          "url": "https://www.scmp.com/business/china-business/article/3366063/china-widens-access-overseas-stocks-handing-out-nearly-us7b-qdii-quotas"
+        }
+      ]
+    },
+    {
+      "id": "2026-W36-013",
+      "headline": "Green Passport: China Chengxin and MioTech Merge to Build a Hong Kong ESG Platform for Firms Going Global",
+      "week": "2026-W36",
+      "weekLabel": "31 Aug–6 Sep 2026",
+      "date": "2026-09-01",
+      "region": "HK",
+      "practiceAreas": [
+        "ESG",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "China Chengxin Group, one of the mainland's largest credit rating agencies, announced on 1 September 2026 that its green finance arm, China Chengxin Green Finance, has merged with Asian sustainability technology firm MioTech to form a new Hong Kong based entity, CCX-MioTech. The combined business is positioned as an ESG and sustainable development services platform for mainland enterprises expanding overseas, covering green finance assessment, ESG ratings, advisory, data services and carbon neutrality research, with MioTech contributing artificial intelligence driven sustainability technology. China Chengxin Green Finance has operated in Hong Kong since 2022 and is a recognised external reviewer under the Hong Kong Monetary Authority's Green and Sustainable Finance Grant Scheme. InvestHK supported the expansion and described it as evidence of Hong Kong's role as the green finance base for mainland companies going global. Speakers at the launch included group founder Mao Zhenhua and officials from the Digital Policy Office and InvestHK.",
+      "whatItMeans": "ESG stands for environmental, social and governance, the three areas investors and regulators now use to judge how responsibly a company operates. An ESG rating scores a company on those measures, much as a credit rating scores its ability to repay debt, and a credit rating agency like China Chengxin is a firm whose business is producing such assessments. Green finance means loans and bonds raised specifically for environmental projects, and an external reviewer is an independent firm that checks whether a green bond genuinely meets green standards, a role the HKMA recognises under a scheme that subsidises the cost of such reviews. Mainland companies expanding abroad increasingly need credible ESG credentials because investors, lenders and regulators in Europe and elsewhere demand sustainability disclosure before doing business. A merger combines two companies into one, here pairing a rating and review business with a technology firm whose software gathers and analyses sustainability data. Hong Kong is the natural base because it sits between mainland companies and the international capital that requires these credentials.",
+      "clients": [
+        "For mainland companies going global, credible ESG ratings and green finance reviews are becoming a passport to foreign investors and lenders, and a Hong Kong based provider that understands both sides makes that easier. It lowers a real barrier to raising money abroad. Demand for such services is rising with disclosure rules.",
+        "For investors and lenders, better ESG data and independent reviews of Chinese issuers reduce the risk of greenwashing and make it easier to commit capital. Reliable assessment is what unlocks sustainable finance flows. A stronger provider in Hong Kong serves that need.",
+        "For issuers of green bonds, a recognised external reviewer with technology behind it can speed up and cheapen the process of certifying a bond as green, especially with HKMA grants offsetting the cost. That makes green issuance more attractive. Hong Kong's green bond market benefits."
+      ],
+      "lawFirms": [
+        "ESG and sustainable finance teams advise issuers on green bond frameworks and on the disclosure rules now required of listed companies, work that depends on exactly the ratings and reviews this platform provides. Growth in sustainable finance feeds directly into these practices. Junior lawyers help draft frameworks and check disclosures.",
+        "Corporate and M&A teams handle mergers like this one, structuring the combination of a rating business and a technology firm into a new Hong Kong entity. Cross border deals bringing mainland groups into Hong Kong are a steady source of work. Firms with China corporate practices compete for them.",
+        "A candidate should care because ESG has moved from a niche to a core requirement in finance, with Hong Kong adopting international sustainability disclosure standards for listed companies. Explaining what an external reviewer does and why mainland firms need ESG credentials abroad shows awareness of a fast growing area."
+      ],
+      "sources": [
+        {
+          "title": "InvestHK (gov.hk)",
+          "url": "https://www.info.gov.hk/gia/general/202609/01/P2026090100383.htm"
         }
       ]
     }
