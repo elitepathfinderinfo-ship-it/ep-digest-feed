@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27",
+  "generatedAt": "2026-10-04",
   "items": [
     {
       "headline": "Hong Kong exports rocket 40.8% in May as the world keeps buying AI gear",
@@ -5333,6 +5333,36 @@
         {
           "title": "AI reshapes Hong Kong job market as graduate vacancies fall 60% (The Standard, 22 Sep 2026)",
           "url": "https://www.thestandard.com.hk/news/article/343517/AI-reshapes-Hong-Kong-job-market-as-graduate-vacancies-fall-60pc"
+        }
+      ]
+    },
+    {
+      "id": "2026-W40-002",
+      "headline": "Stamp duty bill would widen relief for transfers within corporate groups",
+      "week": "2026-W40",
+      "weekLabel": "28 Sep–4 Oct 2026",
+      "date": "2026-09-29",
+      "region": "HK",
+      "practiceAreas": [
+        "Tax",
+        "Corporate / M&A"
+      ],
+      "whatsTheNews": "The government announced on 29 September a bill to widen stamp duty relief for transfers of property or Hong Kong shares within corporate groups. The proposal would reduce the ownership threshold for associated bodies from 90 per cent to 75 per cent. It would also recognise other direct or indirect beneficial interests and voting rights, alongside issued share capital. The bill was scheduled for gazettal on 2 October and introduction to the Legislative Council on 14 October, with application to instruments executed from 25 February 2026 subject to passage.",
+      "whatItMeans": "Stamp duty is a tax on specified transaction documents, so moving an asset between companies under common control can create a cost even when the wider business remains the same. Lowering the ownership threshold from 90 to 75 per cent could bring more group transfers within relief, while extending eligibility beyond entities with issued shares. That may matter when a group separates businesses, moves a property into a different subsidiary or prepares a sale. However, the announcement describes a bill, not an unconditional entitlement already available to every group. The relevant ownership, beneficial interest and voting arrangements will need to satisfy the final legislation. Finance teams should identify potentially affected transfers and retain the documents supporting their structure. Lawyers can then compare the enacted rules with the proposed transaction, check any continuing conditions and advise on the timing of claims without treating expected tax savings as certain.",
+      "clients": [
+        "For corporate groups, a lower ownership threshold could remove a tax cost that currently discourages internal asset transfers. An 80 per cent owned subsidiary, for example, could potentially fall within the proposed threshold even though it misses the current 90 per cent test, but the remaining statutory conditions would still need to be met.",
+        "For businesses using partnerships or entities without issued share capital, the proposed extension could make relief relevant to structures previously outside its scope. Finance teams would need to map beneficial ownership and voting arrangements, because commercial control of an entity does not by itself establish eligibility for a tax exemption.",
+        "For a group preparing a sale or separating business divisions, expected relief could change the cost of moving Hong Kong property or stock before the transaction. The proposed retrospective date may also matter for transfers already executed, but budgets and completion plans should distinguish possible savings from relief available under enacted law."
+      ],
+      "lawFirms": [
+        "Tax lawyers would test the proposed transaction against the ownership, voting and beneficial interest requirements rather than assume that every internal transfer qualifies. Reviewing group charts and supporting records with the finance team helps establish whether the claimed saving is available and what conditions may continue after the transfer.",
+        "Corporate and property teams would work with tax colleagues on the order of steps in a reorganisation. Moving an asset before admitting a new investor could produce a different ownership position from moving it afterwards, so the documents, commercial timetable and relief analysis need to be considered together.",
+        "For transactions near the proposed retrospective start date, lawyers would identify which instruments and payment records need to be retained and examine the final claim procedures when available. This is a useful example for applicants of tax legislation changing deal execution, even where the commercial ownership of a business changes little."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Government",
+          "url": "https://www.info.gov.hk/gia/general/202609/29/P2026092900474.htm"
         }
       ]
     }
