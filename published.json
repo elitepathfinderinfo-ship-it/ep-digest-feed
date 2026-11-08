@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01",
+  "generatedAt": "2026-11-08",
   "items": [
     {
       "headline": "Hong Kong exports rocket 40.8% in May as the world keeps buying AI gear",
@@ -6211,6 +6211,219 @@
         {
           "title": "Hospital Authority statement republished by Bastille Post",
           "url": "https://www.bastillepost.com/global/article/6308225-hospital-authority-addresses-patient-data-theft-incident-and-enhances-security-measures-following-the-pcpd-report"
+        }
+      ]
+    },
+    {
+      "id": "2026-W45-002",
+      "headline": "HKEX’s quarterly profit slips as cash trading slows despite a busy fundraising year",
+      "week": "2026-W45",
+      "weekLabel": "2–8 Nov 2026",
+      "date": "2026-11-06",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets"
+      ],
+      "whatsTheNews": "HKEX reported third quarter profit attributable to shareholders of HK$4.859 billion on 6 November, down 1% from a year earlier. Revenue and other income rose 1% to HK$7.867 billion, while operating expenses increased 8%. Average daily stock exchange turnover fell 11% to HK$254.2 billion. Lower cash market and Southbound Stock Connect fees were partly offset by stronger commodities and Northbound activity and higher listing fees.",
+      "whatItMeans": "An exchange is a business as well as a place where other companies raise money. It earns fees from activities including listings, trading and the processing of transactions. A company’s initial public offering brings its shares to market, but the exchange can also earn recurring fees when investors subsequently buy and sell them. This explains why successful fundraising and weaker trading can coexist. HKEX’s latest quarter shows how lower activity in some markets can offset growth elsewhere, while staff and technology costs continue even when turnover falls. For Hong Kong brokers, issuers and investors, the lesson is that an active listing pipeline does not guarantee deep demand for every share after admission. Businesses planning a sale of shares must consider pricing and investor participation, while intermediaries must budget for operating costs through quieter periods. Lawyers help align fundraising disclosures and service commitments with those commercial realities rather than treating market access as guaranteed investor demand.",
+      "clients": [
+        "Companies planning a listing or further share sale should test demand for their own business rather than rely on the exchange’s overall fundraising success. If trading becomes thinner, investors may ask for a more attractive price, making the amount raised and the ownership surrendered more sensitive to timing and the size of the offer.",
+        "Brokerages need to compare income tied to customer activity with the fixed costs of people and technology. Lower trading volumes can squeeze earnings even when new listings remain plentiful, so managers should examine which services have dependable revenue and how much operational capacity must be retained through a quieter quarter.",
+        "Institutional investors should consider how easily a position can be bought or sold after a fundraising. A large offer does not ensure continuous demand, and selling a substantial holding into a thin market may move its price, making investment size and the expected holding period relevant to the decision before subscribing."
+      ],
+      "lawFirms": [
+        "Capital markets lawyers should ensure that an issuer’s documents explain its own business risks and proposed use of funds clearly. A favourable market narrative cannot replace company specific evidence, and realistic disclosure helps investors assess whether the offer price and expansion plan are supported by actual operating performance.",
+        "Lawyers advising brokers can examine how client agreements allocate execution risk and describe service availability during volatile conditions. Those terms matter because a customer may expect an immediate sale at a displayed price, while actual market depth and the broker’s order handling arrangements determine what can be delivered.",
+        "Corporate advisers should help boards distinguish recurring operating performance from temporary changes when communicating results. Explaining the source of revenue and the persistence of costs allows shareholders to assess management decisions, while avoiding statements that imply a strong fundraising year guarantees future profitability."
+      ],
+      "sources": [
+        {
+          "title": "HKEX: Third quarter results announcement",
+          "url": "https://www.hkex.com.hk/News/News-Release/2026/261106news?sc_lang=en"
+        }
+      ]
+    },
+    {
+      "id": "2026-W45-003",
+      "headline": "HKEX plans to extend overnight derivatives trading to 4:15am",
+      "week": "2026-W45",
+      "weekLabel": "2–8 Nov 2026",
+      "date": "2026-11-02",
+      "region": "HK",
+      "practiceAreas": [
+        "Capital Markets",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "HKEX announced on 2 November that it plans to extend its derivatives trading session from a 3am close to 4:15am from March 2027. The change remains subject to regulatory approval and market readiness. A further extension to 5:15am in November 2027 may be considered after the first extension. HKEX said related service windows and risk procedures would change, while it and the HKMA are exploring digital Hong Kong dollar payments to support advance margin deposits outside normal banking hours.",
+      "whatItMeans": "A derivative is a contract whose value depends on an underlying asset, such as a share index or currency. A fund can use one to reduce exposure to a market movement without immediately selling its investments, although the contract can itself generate losses. Longer trading hours give Hong Kong participants more time to respond when overseas news arrives. That benefit requires money and operational support: margin is the collateral placed with a broker or clearing system to support potential losses, and more may be needed as prices change. A trading screen that remains open is therefore only part of the service. Firms also need authorised staff, working systems and access to funds during the extended period. The planned change is conditional, and the digital payment project is still a pilot. Brokers and funds should now assess whether the extra hour and fifteen minutes improves their risk management enough to justify the staffing, funding and technology commitments it creates.",
+      "clients": [
+        "Fund managers using derivatives to protect portfolios should decide who may trade and approve additional funding during the extended session. Faster access can reduce an unwanted exposure after overseas news, but unclear authority overnight can leave a fund unable to act or allow a position to grow beyond the limits its investors expect.",
+        "Brokers should calculate the cost of longer staffing, system support and access to cash before promising clients an extended service. A customer may be able to enter a trade while ordinary payment channels are unavailable, so the business needs a practical plan for collecting collateral and responding when a client cannot provide it.",
+        "Technology and payment providers should check whether existing support contracts cover the proposed operating window. An extra trading period reduces time available for maintenance, and firms need to know who responds to a failure at 4am before treating longer market access as an improvement they can reliably offer customers."
+      ],
+      "lawFirms": [
+        "Derivatives lawyers should explain the relationship between trading authority, collateral demands and rights to close positions in client agreements. These provisions affect real money when prices move overnight, so notice methods and response periods need to fit the proposed service rather than assume a client is available during office hours.",
+        "Technology and outsourcing advisers can align vendor support, incident escalation and maintenance windows with the extended session. A promise of longer trading is commercially useful only if the underlying services work, making responsibility for an outage and access to remedial support central parts of the contractual allocation.",
+        "Employment and regulatory teams should help firms prepare staffing and supervision arrangements without treating the proposal as final approval. Clear responsibilities, records of overnight decisions and realistic implementation dates reduce the risk that a business launches a service before its people and controls can support it."
+      ],
+      "sources": [
+        {
+          "title": "HKEX: Planned extension of derivatives trading hours",
+          "url": "https://www.hkex.com.hk/News/Market-Communications/2026/261102news?sc_lang=en"
+        }
+      ]
+    },
+    {
+      "id": "2026-W45-004",
+      "headline": "US extends pause on trade restrictions for subsidiaries of blacklisted companies",
+      "week": "2026-W45",
+      "weekLabel": "2–8 Nov 2026",
+      "date": "2026-11-06",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "International Trade",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "The United States has extended the suspension of an expanded trade blacklist rule, the South China Morning Post reported on 6 November. The Bureau of Industry and Security issued the final rule on 5 November. The suspension of the 50% affiliate rule now runs until 10 January, the report said. If implemented, that rule would extend US restrictions to companies at least 50% owned by firms on the Entity List or Military End User List, potentially reaching overseas subsidiaries of Chinese businesses.",
+      "whatItMeans": "Export controls can restrict the supply of specified goods or technology to particular recipients. The affiliate rule would extend certain restrictions through ownership, meaning a supplier could not rely only on whether its immediate customer appears by name on a list. A Hong Kong distributor serving mainland corporate groups may therefore need to understand who owns the buyer, as well as what it is selling and where the goods will go. Extending the suspension preserves a temporary pause in that ownership based expansion; it does not remove restrictions that already apply to a listed company, controlled item or prohibited use. The commercial benefit is additional planning time, rather than a permanent guarantee of supply. Businesses with delivery schedules beyond January must decide whether they can accept orders, buy stock or promise support if the rule later takes effect. Lawyers help translate that uncertainty into ownership checks, licensing analysis and clear terms on delayed or legally restricted performance.",
+      "clients": [
+        "Hong Kong distributors handling technology with a US connection should map customer ownership before committing to deliveries beyond the suspension period. A buyer’s name alone may not reveal the affected corporate group, and a temporary pause gives time to clarify eligibility rather than justify a promise that future shipments face no restrictions.",
+        "Manufacturers relying on imported components should identify which suppliers and group entities may be affected if the rule becomes operative. Alternative sourcing and inventory decisions involve cost, but depending on a short suspension for a production schedule lasting several months could expose the business to a sudden interruption.",
+        "Corporate groups should keep accurate ownership records and explain relevant changes to trading partners. Suppliers may request information before accepting orders, so a reliable account of the chain of ownership can prevent unnecessary delays while allowing each party to assess the rules that apply to the particular goods and recipient."
+      ],
+      "lawFirms": [
+        "Trade lawyers should analyse the product, destination, recipient and ownership chain together, distinguishing the paused expansion from existing restrictions. This matters because a client could wrongly treat the extension as broad permission to trade when a separate control still affects the planned shipment or technical support.",
+        "Commercial lawyers can allocate responsibility for obtaining permissions and supplying ownership information in purchase agreements. If a future rule prevents delivery, clear provisions on suspension, termination and payment for stock already ordered can reduce a dispute over which party must absorb the resulting delay and expense.",
+        "Transactional advisers should examine export dependencies when valuing a target business with mainland operations. A company whose sales rely on access to controlled technology may face costs that are not visible in current earnings, making regulatory conditions and assumptions about future supply relevant to the buyer’s price and commitments."
+      ],
+      "sources": [
+        {
+          "title": "South China Morning Post: Extension of US affiliate rule suspension",
+          "url": "https://www.scmp.com/economy/policy/article/3373520/ahead-shenzhen-trade-talks-us-holds-blacklist-rule-angered-beijing"
+        }
+      ]
+    },
+    {
+      "id": "2026-W45-005",
+      "headline": "China blocks the Chinese operations in SoftBank’s planned ABB robotics acquisition",
+      "week": "2026-W45",
+      "weekLabel": "2–8 Nov 2026",
+      "date": "2026-11-06",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "Corporate / M&A",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "SoftBank said on 6 November that China’s foreign investment security review authority had prohibited its acquisition of ABB’s robotics business in China. It received the notification on 4 November. ABB’s separate announcement identified the original October 2025 agreement as a sale of its robotics division for an enterprise value of US$5.375 billion. The companies said they remained in discussions and were working on the transaction, which is subject to regulatory approvals and other closing conditions.",
+      "whatItMeans": "Signing a takeover agreement does not necessarily transfer ownership immediately. Large transactions often require approvals before completion, and this case shows how a business located in one country can affect a wider international deal. The announced restriction concerns ABB’s robotics business in China; the companies have not announced that the entire global agreement is cancelled. A buyer must now consider whether there is an acceptable route forward and how any change would affect the business it expected to acquire. Enterprise value describes the value of the operating business and is not automatically the amount paid directly to shareholders, because debt and cash can affect that calculation. For Hong Kong investors buying groups with mainland operations, the practical lesson is to assess regulatory approvals alongside price and funding. Lawyers need to establish which approvals are conditions to completion, how long the parties must pursue them and who bears the cost if the agreed structure cannot proceed.",
+      "clients": [
+        "Buyers using Hong Kong as a base for acquisitions involving mainland businesses should identify approval requirements before agreeing a firm timetable. Financing and integration plans can become expensive if completion is delayed, so the purchase price must be considered alongside the likelihood and timing of obtaining the necessary permissions.",
+        "Sellers should consider how a prolonged approval process affects the business while ownership remains unchanged. Staff, customers and suppliers still need decisions, and restrictions on operating the target before completion should leave enough flexibility to protect its value without undermining the buyer’s agreed protections.",
+        "Customers and suppliers of a business under sale should distinguish the proposed owner from the party currently responsible for their contracts. A blocked or delayed transaction does not itself explain whether service arrangements will change, making continuity commitments and clear communication more useful than assumptions about the final outcome."
+      ],
+      "lawFirms": [
+        "M&A lawyers should examine the agreed approval conditions, termination date and obligations to seek permission before advising on the consequences of the block. The announcement alone does not establish a right to cancel or a compensation payment, and those contractual details determine the options available to each party.",
+        "Regulatory advisers should map the target’s activities and assets by jurisdiction when assessing an international transaction. A decision affecting Chinese operations may change the economics of the wider deal, so the client needs advice on the precise scope of the restriction rather than an assumption that approval in one place is sufficient.",
+        "Corporate and financing teams can assess any proposed revised structure against the original commercial bargain. Separating an operation may affect shared technology, contracts and cash flows, so a possible solution requires workable transitional arrangements and funding terms, not merely a smaller description of the assets being acquired."
+      ],
+      "sources": [
+        {
+          "title": "SoftBank: Update on ABB robotics acquisition",
+          "url": "https://group.softbank/en/news/press/20261106"
+        },
+        {
+          "title": "ABB: Dated update on robotics divestment",
+          "url": "https://resources.news.e.abb.com/attachments/published/140154/en-US/0A15DBC92198/20261105_Update_on_divestment_of_ABB_Robotics_EN.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2026-W45-009",
+      "headline": "Hong Kong passes tax reporting law for crypto transactions and digital financial accounts",
+      "week": "2026-W45",
+      "weekLabel": "2–8 Nov 2026",
+      "date": "2026-11-04",
+      "region": "HK",
+      "practiceAreas": [
+        "Tax",
+        "FinTech"
+      ],
+      "whatsTheNews": "Hong Kong's Legislative Council passed the bill implementing the Crypto Asset Reporting Framework and amendments to the Common Reporting Standard on 4 November. The first framework extends international tax information sharing to crypto transactions. Relevant providers will collect specified information from 2027, with exchanges between tax authorities starting in 2028. The amended account reporting standard takes effect in 2028, with exchanges under it starting in 2029. The Inland Revenue Department will issue guidance and provide technical support.",
+      "whatItMeans": "Tax information exchange lets one jurisdiction send another information that helps it check residents' tax returns. A crypto platform can hold transaction records that a customer's home tax authority cannot otherwise see. The new framework brings those records into an organised reporting system, while changes to the Common Reporting Standard update the rules for financial accounts and digital products. Passing the bill is a material step beyond the proposal covered earlier this year: businesses can now plan around implementation rather than await the legislative vote. Reporting does not itself create a new tax rate or mean that every crypto transaction produces taxable income. The commercial cost lies in identifying which customers and activities fall within the rules, collecting reliable details and connecting those records to reporting systems. Providers must prepare for 2027 data collection even though governments exchange that information later. Poor initial records could be expensive to reconstruct.",
+      "clients": [
+        "Crypto platforms serving customers through Hong Kong must establish whether their activities are covered before budgeting for new systems. Collecting tax residence information can add steps to opening an account, so product and compliance teams need to balance accurate records with a process customers can complete without abandoning the service.",
+        "Banks and other financial businesses face a separate timetable for the amended account standard. Treating both reforms as one launch risks spending on the wrong system first. Management should identify which digital products and existing reporting processes need changes, then assign owners and testing budgets against the relevant start dates.",
+        "Businesses holding crypto across several jurisdictions should compare transaction records with their own tax records before information begins moving between authorities. A mismatch need not establish evasion, but incomplete explanations can lead to costly questions. Finance teams need a defensible account of who owned the assets and what each transfer represented."
+      ],
+      "lawFirms": [
+        "Tax lawyers can map a provider's services and organisational structure against the reporting rules, distinguishing the entity collecting information from the entity responsible for filing it. That analysis determines where systems investment belongs and helps management avoid assuming that a separate virtual asset licence settles its tax obligations.",
+        "Technology and privacy advisers can translate reporting duties into customer notices and supplier contracts. If a platform relies on an outside identity service, the contract needs usable records, correction procedures and access when the supplier relationship ends. Otherwise the business may remain responsible for information it cannot retrieve.",
+        "Tax disputes teams can help customers reconcile anticipated reports with underlying transactions before an authority raises questions. The purpose is to explain inconsistencies with evidence, rather than assume every reported receipt is profit. Lawyers will need to distinguish transfers between a client's own accounts from transactions with another owner."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Government news",
+          "url": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_181944_819.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-W45-010",
+      "headline": "Hong Kong arrests 28 in building maintenance bid rigging investigation",
+      "week": "2026-W45",
+      "weekLabel": "2–8 Nov 2026",
+      "date": "2026-11-06",
+      "region": "HK",
+      "practiceAreas": [
+        "Competition",
+        "Disputes / Litigation",
+        "Real Estate"
+      ],
+      "whatsTheNews": "Hong Kong authorities announced on 6 November that their first operation under a new joint task force had targeted an alleged building maintenance bid rigging syndicate. The operation on 5 and 6 November arrested 28 people connected with that investigation. Officials linked the alleged scheme to six contractors and ten consultancy firms, with 12 awarded contracts worth about HK$100 million and eight further contracts not yet awarded. Allegations included bribing owners' corporation members and arranging nominal inspectors. These are investigation allegations, not findings of guilt.",
+      "whatItMeans": "A tender is meant to let a building's owners compare competing offers for repair work. That protection breaks down if apparently separate bidders coordinate or if the people selecting them receive secret benefits. Owners may then pay more without knowing that the competition was artificial. Consultants matter because they can influence the work specification, which contractors qualify and whether completed work is accepted. The investigation therefore concerns the whole purchasing process, rather than simply an expensive quotation. This week's arrests are a new enforcement action, distinct from the government's recent building repair reform proposals. For buildings with contracts already signed, an arrest does not automatically cancel the agreement or prove that the price was inflated. The immediate business question is how to keep necessary safety work moving while preserving evidence and checking whether the procurement decision was compromised. Buildings still choosing a contractor have more room to pause and reassess.",
+      "clients": [
+        "Owners' corporations with an awarded contract need to separate urgent repairs from disputed procurement decisions. Stopping all work could create safety and payment problems, while continuing without questions could increase losses. They should secure the tender records and obtain independent advice before deciding whether to withhold payment or replace a contractor.",
+        "Contractors and consultants whose staff or counterparties are involved need to assess whether ongoing projects can still be performed. The loss of a key inspector or project manager may delay certification and cash receipts even before any court outcome. Managers should preserve messages and allocate replacement responsibilities without obstructing investigators.",
+        "Property managers running other tenders should test whether competing bids are genuinely independent, rather than rely only on the number received. Shared contacts or unexplained relationships can undermine a price comparison. Recording ownership checks and reasons for selection helps protect owners' funds and demonstrate how the purchasing decision was made."
+      ],
+      "lawFirms": [
+        "Investigation lawyers can help businesses preserve electronic records, identify who should respond to each agency and protect confidential legal advice. Different allegations may raise different criminal and competition issues. Establishing the actual conduct and each person's role matters before a company chooses its response or makes public statements.",
+        "Property and disputes lawyers can examine termination, payment and inspection clauses before an owners' corporation stops a project. Suspicion alone may not give a contractual right to cancel. Advice must connect the evidence of wrongdoing to available remedies so that a building does not replace a procurement problem with an avoidable contract claim.",
+        "Lawyers advising unaffected owners can redesign tender instructions and conflict declarations around the points where influence enters the process. Independent technical advice and documented selection criteria help establish whether a bid offers value. The aim is a decision owners can defend, rather than paperwork that leaves the same connected people in control."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Government news",
+          "url": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_181148_193.html?type=ticker"
+        }
+      ]
+    },
+    {
+      "id": "2026-W45-012",
+      "headline": "EU court adviser says AI news answers may infringe publishers’ rights",
+      "week": "2026-W45",
+      "weekLabel": "2–8 Nov 2026",
+      "date": "2026-11-03",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "IP / TMT"
+      ],
+      "whatsTheNews": "An adviser to the Court of Justice of the European Union delivered an opinion on 3 November in the Like Company dispute involving Google's Gemini service. Advocate General Maciej Szpunar addressed the retrieval and reuse of press content in AI answers. He distinguished protected expression from facts and identified circumstances in which reuse could infringe press publishers' rights. The opinion is advisory and does not bind the judges, who will decide the case later.",
+      "whatItMeans": "Some AI services retrieve current articles when a user asks a question, then build an answer from what they find. That differs from answering solely from information absorbed during earlier model training. If an answer reproduces enough of a publication's protected expression, the reader may no longer need to visit the publisher, weakening the traffic that supports subscriptions and advertising. The dispute asks where useful information retrieval becomes an unauthorised use of someone else's content. It does not give publishers ownership of the underlying facts, and this opinion is not yet a court judgment. For Hong Kong software businesses supplying AI news tools in EU markets, the practical issue is whether their content access and output arrangements create exposure under the applicable European rules. Hong Kong law has not changed because an EU adviser spoke. Businesses must assess the markets and rights actually involved before choosing between licensing, different sources or tighter limits on reproduced material.",
+      "clients": [
+        "Hong Kong developers selling AI research tools into Europe should identify where their answers obtain news and what users receive. A product that displays recognisable passages raises different questions from one that links to a source. Mapping that process helps management estimate licensing costs and decide which features can be offered while the legal position develops.",
+        "Publishers with content used by services reaching EU audiences need evidence of both access and the material reproduced. Factual overlap alone does not demonstrate copying of protected expression. Recording specific outputs can support a licensing discussion or legal assessment, while avoiding the assumption that every AI reference to a reported event infringes rights.",
+        "Corporate customers buying AI tools should ask what the supplier promises about source permissions and complaints. Paying a subscription to the software provider does not itself establish that every underlying article is licensed. Buyers need a workable response if access is restricted or content is challenged, particularly when the tool supports a service sold to customers."
+      ],
+      "lawFirms": [
+        "IP lawyers can assess the territorial connection, the rights in the relevant publications and the way the service obtains and presents material. The advisory opinion should inform risk analysis without being presented as a final ruling. This distinction helps clients choose proportionate product changes while preserving options until the court decides the case.",
+        "Commercial lawyers negotiating content licences can define which articles a tool may retrieve, how much may appear in an answer and what attribution is required. A licence for internal reading may not cover a product supplied to customers. Clear permission boundaries make the cost of the feature more predictable and reduce disagreement when the product expands.",
+        "Lawyers advising AI buyers can connect supplier assurances to practical remedies, including complaint handling and replacement of disputed sources. A promise to cover losses may be of limited value if the service stops working or the supplier cannot pay. Contract drafting should therefore consider operational continuity as well as responsibility for a claim."
+      ],
+      "sources": [
+        {
+          "title": "Court of Justice of the European Union press release",
+          "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf"
         }
       ]
     }
