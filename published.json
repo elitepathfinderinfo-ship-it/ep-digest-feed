@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08",
+  "generatedAt": "2026-11-15",
   "items": [
     {
       "headline": "Hong Kong exports rocket 40.8% in May as the world keeps buying AI gear",
@@ -6424,6 +6424,155 @@
         {
           "title": "Court of Justice of the European Union press release",
           "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2026-W46-004",
+      "headline": "China trade growth accelerates as imports outpace exports over ten months",
+      "week": "2026-W46",
+      "weekLabel": "9–15 Nov 2026",
+      "date": "2026-11-10",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "International Trade",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "China's goods trade reached 44.81 trillion yuan in the first ten months of 2026, up 20 per cent from a year earlier, according to customs figures reported by Xinhua on 10 November. Imports increased 23.6 per cent and exports 17.6 per cent over that period. October alone recorded a 31.2 per cent increase in total goods trade. Mechanical and electrical products accounted for 64.7 per cent of exports in the ten month period, with their value up 25.2 per cent.",
+      "whatItMeans": "Trade figures record the value of goods crossing a border, not the profit businesses earn from selling them. Stronger imports can mean more opportunities for overseas suppliers, but imported materials and components may also be inputs into goods that China later exports. Rising trade therefore connects suppliers, manufacturers, shipping companies and customers across several markets. The figures are measured in yuan, and growth in value can reflect prices as well as the number of goods shipped. They should not be read as proof that every exporter is receiving more orders or earning a better margin. For Hong Kong trading and logistics businesses, larger flows can create demand for transport, insurance and payment services. They can also require more cash to pay suppliers before overseas customers settle their invoices. The practical commercial question is whether a firm can finance and deliver additional orders profitably, rather than simply celebrate a larger national trade total.",
+      "clients": [
+        "Hong Kong trading businesses pursuing additional mainland orders need to map when they pay suppliers and when customers pay them. Higher sales can consume cash if the gap grows. Before accepting more volume, management should check credit limits, deposits and delivery dates so that a successful order book does not create a payment shortage.",
+        "Overseas suppliers should distinguish demand for factory inputs from demand for finished consumer goods when interpreting stronger imports. The same national growth figure can conceal very different customers. Contracts and inventory plans should follow confirmed orders and the buyer's payment capacity rather than an assumption that every product category is expanding.",
+        "Logistics providers serving mainland trade through Hong Kong must decide how much additional transport or storage capacity to commit. Fixed capacity costs remain payable if volumes fall later. Flexible customer commitments and clear charges for delays can help prevent a temporary surge in shipments from leaving the provider with lasting unused capacity."
+      ],
+      "lawFirms": [
+        "Trade lawyers can establish which party is responsible for customs declarations, classification and required documents in a growing supply chain. The commercial price may look attractive while compliance responsibility remains unclear. Correctly allocating those tasks reduces the risk that goods are delayed and each party blames the other for the resulting loss.",
+        "Commercial lawyers can connect payment protection with the actual shipment sequence, including deposits, documentary requirements and rights if a customer refuses delivery. More trade means larger sums may be outstanding at once. Contract drafting should address who carries the risk while goods are moving and before the seller has received the full price.",
+        "Disputes advisers can help traders preserve order changes, inspection records and delivery evidence across jurisdictions. If a buyer claims that goods are defective, the ability to prove what was agreed affects recovery. Choosing a workable dispute forum at the start matters when the supplier, buyer and assets available to satisfy a claim are in different places."
+      ],
+      "sources": [
+        {
+          "title": "Xinhua via State Council website",
+          "url": "https://english.www.gov.cn/archive/statistics/202611/10/content_WS6af2cb86c6d00ca5f9a0e31f.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-W46-008",
+      "headline": "Cathay places firm order for 14 additional Airbus aircraft",
+      "week": "2026-W46",
+      "weekLabel": "9–15 Nov 2026",
+      "date": "2026-11-11",
+      "region": "HK",
+      "practiceAreas": [
+        "Corporate / M&A",
+        "International Trade"
+      ],
+      "whatsTheNews": "Cathay Group placed a firm order for 14 additional Airbus aircraft, Airbus announced on 11 November. The order comprises 11 A330neo aircraft and three A321neo aircraft. The additional A330 aircraft increase Cathay's firm commitment for that type from 30 to 41. Airbus said the aircraft would support regional and longer distance operations as part of fleet renewal and expansion; the announcement concerns orders rather than completed deliveries.",
+      "whatItMeans": "Ordering aircraft commits an airline to capacity that will serve passengers over many years. The business must decide how much future demand to prepare for before it knows the fares and fuel prices that will prevail when the aircraft arrive. A firm order is a more concrete commercial step than an expression of interest in buying planes. It still differs from delivery, when aircraft can begin earning revenue. New aircraft may replace older ones as well as expand the fleet, so the number ordered is not automatically the increase in passenger capacity. For Hong Kong's aviation and tourism businesses, fleet investment can support future connections and service improvements. The financial tradeoff is that aircraft require substantial funding and associated spending on crews, maintenance and facilities. The value of the investment depends on using that capacity profitably, rather than merely operating a larger fleet. Contract terms matter because delayed deliveries or weaker demand can change that calculation.",
+      "clients": [
+        "The airline must align aircraft payments with expected cash receipts and financing availability while planning crew and maintenance capacity. An aircraft that arrives before the supporting operation is ready may not earn the expected return. Investment decisions should therefore connect the purchase timetable with the practical cost of bringing each aircraft into service.",
+        "Hotels, travel businesses and cargo customers can consider the longer term opportunities from fleet investment without assuming that a specific route or delivery date is guaranteed. Aircraft may replace existing equipment. Businesses planning their own expansion need confirmed schedules and capacity commitments before treating the order as additional demand for their services.",
+        "Manufacturers and equipment suppliers need to coordinate production slots, component supply and customer specifications. A change in one part of the programme can affect delivery and payment elsewhere. The commercial value of a firm order depends partly on whether the supply chain can perform it within the agreed timetable and agreed cost assumptions."
+      ],
+      "lawFirms": [
+        "Aviation and commercial lawyers can negotiate delivery windows, acceptance tests and remedies for delay against the airline's operating plan. A delayed aircraft can affect routes, staffing and replacement leasing costs. The contract should identify which losses are recoverable and when the buyer can seek alternatives without breaching its own purchase commitment.",
+        "Finance lawyers can coordinate loan or leasing arrangements with purchase payments and the point at which ownership or security becomes effective. Funding agreed too early or too late can create unnecessary cost. Documents must also address what happens if delivery slips so that the airline is not left paying for financing that cannot yet support an operating aircraft.",
+        "Lawyers advising maintenance and technology arrangements can ensure that access to parts, technical records and support remains usable throughout the aircraft's life. The purchase price is only one part of the investment. Clear service obligations and transfer rights matter when the airline later sells, leases or replaces equipment as its network changes."
+      ],
+      "sources": [
+        {
+          "title": "Airbus press release",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-the-cathay-group-orders-14-additional-airbus-aircraft"
+        }
+      ]
+    },
+    {
+      "id": "2026-W46-010",
+      "headline": "Sogo data breach investigation puts up to 820,000 loyalty members’ records in focus",
+      "week": "2026-W46",
+      "weekLabel": "9–15 Nov 2026",
+      "date": "2026-11-12",
+      "region": "HK",
+      "practiceAreas": [
+        "Cybersecurity / Data"
+      ],
+      "whatsTheNews": "Hong Kong's privacy watchdog is investigating a breach involving Sogo's membership system, the South China Morning Post reported on 12 November. Up to 820,000 loyalty members may be affected. Preliminary information indicates that the records involved may include names, email addresses, phone numbers and membership point balances. Sogo said it had notified authorities, begun an investigation and strengthened cybersecurity monitoring. The investigation has not established a final finding that the retailer breached its legal obligations.",
+      "whatItMeans": "A loyalty programme exchanges benefits, such as shopping points, for a continuing relationship with a customer. The records that make it useful for marketing also connect a person's identity, contact details and account. If outsiders obtain those records, even information without a payment card number can help them impersonate the retailer or make a fraudulent message more convincing. That creates costs beyond repairing a computer system: the retailer must understand what was accessed, answer customers and protect confidence in the programme. The possible scale at Sogo makes the accuracy of that response especially important. A preliminary estimate of affected members is not proof that every listed field was taken for every person. Nor does a reported incident itself establish legal liability. The immediate decision is how to contain further access while preserving the records needed to investigate, then communicate what is known without promising more certainty than the evidence supports.",
+      "clients": [
+        "Sogo's management needs technical findings that distinguish possible exposure from confirmed extraction. That distinction shapes which customers are contacted and what they are told. The commercial response should bring security, customer service and programme operations together, because a restored system alone will not answer questions about points or account misuse.",
+        "Other retailers holding membership databases should examine whether staff and suppliers can access more information than their work requires. Large contact lists can create risk even when payment details sit elsewhere. Reviewing access and retention can reduce the amount exposed in a future incident while preserving the information genuinely needed to serve customers.",
+        "Loyalty members may receive messages that use real personal details to appear credible. Retailers therefore need clear official channels through which customers can check a communication without replying to it. Consistent guidance helps reduce follow on fraud and avoids overwhelming store staff with conflicting explanations about what the business knows."
+      ],
+      "lawFirms": [
+        "Data Privacy team can help turn the investigation into an evidence based account for the regulator and affected people. They should distinguish the incident timeline, categories of data and protective measures from facts still being checked. This matters because an inaccurate early statement can complicate later regulatory engagement and damage customer confidence.",
+        "Technology lawyers can review supplier obligations concerning access logs, incident cooperation and data return. A retailer may need information held by several service providers to reconstruct what happened. Clear rights to assistance and records can shorten that process and help establish responsibility without assuming that outsourcing transfers the retailer's own duties.",
+        "Disputes and insurance lawyers can preserve evidence relevant to possible customer claims, supplier recovery and insurance notification. The existence of a breach does not automatically prove compensable loss or cover under a policy. Early review helps the business meet applicable deadlines and assess recovery options while the technical investigation continues."
+      ],
+      "sources": [
+        {
+          "title": "South China Morning Post",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374260/hong-kong-sogo-data-breach-puts-personal-information-820000-members-risk"
+        }
+      ]
+    },
+    {
+      "id": "2026-W46-011",
+      "headline": "Dutch court lifts seizure of BYD records in Jaguar Land Rover design dispute",
+      "week": "2026-W46",
+      "weekLabel": "9–15 Nov 2026",
+      "date": "2026-11-12",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "IP / TMT",
+        "Disputes / Litigation"
+      ],
+      "whatsTheNews": "A Dutch court lifted the seizure of records from BYD's Netherlands offices in its dispute with Jaguar Land Rover, EVwire reported on 12 November. The preliminary ruling required JLR to instruct the custodian to destroy the material within 24 hours of formal service, with penalties for delay. The court considered the records unnecessary to argue the design claim or calculate damages when the Ti7 had not been sold in the EU. The original decision was issued on 11 November and corrected on 12 November. The ruling concerns evidence measures and does not finally determine whether the vehicle infringes JLR's rights.",
+      "whatItMeans": "Design rights can protect a product's appearance, but claiming a rival copied a design and obtaining that rival's internal records are separate legal questions. A court may initially allow evidence to be preserved before the other side is heard, then reconsider the measure when that party challenges it. Here, the dispute concerns whether JLR needed seized BYD records to pursue its case, rather than a final verdict on the vehicles' designs. This matters for Hong Kong listed BYD as it expands overseas, because legal disputes can expose sensitive development material and add uncertainty to product launches even before sales begin. Winning this procedural challenge does not mean every other claim disappears or that a vehicle can be sold everywhere without risk. For exporters more broadly, the lesson is to distinguish the underlying intellectual property position from the law governing access to evidence in each market. They need local advice early enough to protect both their product plans and confidential records.",
+      "clients": [
+        "BYD must separate this result on seized records from the remaining risk surrounding the Ti7's design. A successful challenge can protect confidential development information without settling whether another court might restrict sales. Product and sales teams should base launch decisions on the claims and territories still in issue, rather than treat one procedural win as complete clearance.",
+        "Businesses asserting design rights need to explain why the evidence they seek is necessary and proportionate to the claim. An overly broad request can increase cost and expose them to an order reversing the measure. Before seeking a competitor's internal files, management should assess what can already be established from the product and available market evidence.",
+        "Hong Kong exporters with overseas offices should know where research records sit and who can respond when local court officers arrive. Staff need to preserve records and follow the actual order while obtaining legal advice promptly. Separating relevant project material from unrelated confidential information can make any later dispute about the scope of access easier to resolve."
+      ],
+      "lawFirms": [
+        "IP litigators can distinguish the protected design, the alleged infringement and the evidence required to prove it. The court's preliminary treatment of the seizure should not be described as a final ruling on copying. This distinction lets lawyers advise on the next litigation step without overstating how much commercial freedom the client has gained.",
+        "Lawyers coordinating international disputes can connect local procedural advice with the company's central product team. Orders governing custody, destruction or access to records may require rapid operational action. Identifying the custodian, the service date and the exact obligations helps prevent a favourable judgment from being undermined by poor implementation.",
+        "Commercial lawyers can examine confidentiality and cooperation clauses with distributors, designers and manufacturing partners before an overseas dispute arises. Those contracts may determine whether the exporter can obtain records or protect shared technical material. Preparing that chain of responsibility can reduce disruption if evidence becomes the subject of urgent court measures."
+      ],
+      "sources": [
+        {
+          "title": "EVwire",
+          "url": "https://evwire.com/p/dutch-court-jlr-destroy-seized-byd-ti7-files-defender-case"
+        }
+      ]
+    },
+    {
+      "id": "2026-W46-012",
+      "headline": "Beijing excludes Hong Kong MPF accounts from offshore trust tax rules",
+      "week": "2026-W46",
+      "weekLabel": "9–15 Nov 2026",
+      "date": "2026-11-13",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "Tax",
+        "China / Cross-border"
+      ],
+      "whatsTheNews": "China's finance ministry clarified offshore trust tax enforcement on 13 November, the South China Morning Post reported. The clarification excludes Hong Kong pension fund accounts held by mainland Chinese. It also addresses calculation methods for publicly traded Hong Kong shares and interests in unlisted companies. The report says the ministry addressed eight points, including foreign exchange and valuation rules. This follows the trust tax circular issued in July, rather than the introduction of an entirely new tax this week.",
+      "whatItMeans": "A trust separates the legal holding of assets from the people who benefit from them. The Mandatory Provident Fund, or MPF, is Hong Kong's retirement savings system, so uncertainty about whether offshore trust rules also reach pension accounts can affect people whose work and financial lives cross the border. The reported clarification draws a boundary by excluding those Hong Kong pension accounts. It should not be read as an exemption for every offshore investment or every trust with a Hong Kong connection. For other assets, tax calculations require a value and, when currencies differ, a conversion into the reporting currency. Listed shares have observable market prices, while a stake in a private business may be harder to value. That difference can affect the evidence and professional work needed to calculate a liability. The practical decision is to identify the kind of account and assets held before estimating tax or selling investments to raise cash. The full rules must be checked before applying a formula to an individual case.",
+      "clients": [
+        "Mainland Chinese account holders with Hong Kong retirement savings should distinguish those pension balances from other assets held through offshore arrangements. The clarification can remove one source of uncertainty without resolving all their tax affairs. A clear inventory of account types and ownership helps prevent unnecessary asset sales based on an overly broad reading of the rules.",
+        "Families holding shares through offshore structures need to understand how the relevant valuation and currency rules apply before budgeting for a payment. A quoted share price and the value of an unlisted business are not interchangeable measures. Advisers need consistent records so that a tax estimate reflects the actual asset and applicable method rather than a headline assumption.",
+        "Hong Kong wealth advisers serving clients with mainland connections should update explanations carefully. Saying that MPF accounts are excluded is different from promising that all retirement planning or trust arrangements are exempt. Clear communication can help clients decide what information to gather and when specialist advice is needed, without encouraging premature restructuring."
+      ],
+      "lawFirms": [
+        "Tax lawyers can classify the client, account and assets under the complete clarification before reaching a conclusion about liability. The pension exclusion does not settle the conditions or calculation method for other offshore arrangements. Checking the underlying rules avoids extending a narrow exemption to a different arrangement merely because both are described as trusts.",
+        "Private client and corporate lawyers can assemble the trust documents, share ownership records and valuation evidence needed for advice. Where assets include an interest in a private business, the legal rights attached to the shares may affect the valuation exercise. Coordinating those records with tax specialists helps produce an explanation the client can support if questioned.",
+        "Lawyers working with wealth managers can revise client communications and distinguish confirmed rule changes from individual advice. A general update should not imply that an account holder's residence or wider structure has already been assessed. Documenting the limits of the explanation protects the client from relying on a pension exception when making unrelated investment decisions."
+      ],
+      "sources": [
+        {
+          "title": "South China Morning Post",
+          "url": "https://www.scmp.com/business/china-business/article/3374374/beijing-clarifies-offshore-trust-tax-rules-exempting-hong-kong-mpf-accounts?pgtype=topic"
         }
       ]
     }
