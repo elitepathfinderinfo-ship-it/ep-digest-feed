@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15",
+  "generatedAt": "2026-11-22",
   "items": [
     {
       "headline": "Hong Kong exports rocket 40.8% in May as the world keeps buying AI gear",
@@ -6573,6 +6573,159 @@
         {
           "title": "South China Morning Post",
           "url": "https://www.scmp.com/business/china-business/article/3374374/beijing-clarifies-offshore-trust-tax-rules-exempting-hong-kong-mpf-accounts?pgtype=topic"
+        }
+      ]
+    },
+    {
+      "id": "2026-W47-002",
+      "headline": "Hong Kong passes banking reforms covering parent companies and supervision",
+      "week": "2026-W47",
+      "weekLabel": "16–22 Nov 2026",
+      "date": "2026-11-18",
+      "region": "HK",
+      "practiceAreas": [
+        "Financial Regulatory",
+        "Banking & Finance"
+      ],
+      "whatsTheNews": "The Legislative Council passed the Banking Legislation (Miscellaneous Amendments) Bill on 18 November. The changes cover regulation of bank holding companies, the engagement of skilled persons for supervision and modernisation of enforcement provisions. They also simplify the banking system from three categories of authorised institutions to two and make technical amendments intended to reduce compliance burdens. The government said the amendment ordinance would take effect in phases starting on 1 January 2027.",
+      "whatItMeans": "A bank holding company owns a bank but may sit above the entity that accepts deposits and makes loans. Decisions at that parent level can affect the bank's funding, management and exposure to other businesses in the group. Supervising only the bank can therefore leave an incomplete picture of how the business is controlled. The new law brings parent company regulation into the reforms alongside changes to supervision and enforcement. Passing the bill changes the planning question from whether these reforms will proceed to when each provision applies and which entities it affects. It does not mean every provision is already operating or that all banks must reorganise immediately. For banking groups, the commercial issue is how to preserve workable management and funding arrangements while meeting the new requirements. Firms in the existing licensing categories also need to understand their transition route before committing money to new products or a change in business model. The phased timetable makes sequencing those decisions important.",
+      "clients": [
+        "Banking groups should identify which company owns the Hong Kong bank and where funding and management decisions are actually made. The new focus on holding companies means an assessment limited to the deposit taking subsidiary may miss relevant arrangements. Management needs a group level plan before assuming that an existing reporting process covers the reforms.",
+        "Institutions affected by the move from three licensing categories to two need to establish how their current business fits the new structure. A change in category can influence investment and product planning, but the passage announcement does not give every firm the same immediate deadline. Budgets should follow the provisions and transition arrangements that apply to that institution.",
+        "Bank boards should plan for changes to supervisory reviews and enforcement without treating a new law as evidence of wrongdoing at their own institution. The immediate cost is understanding responsibilities, records and implementation dates. Preparing an accurate picture of existing controls can help the business respond efficiently if the regulator seeks further examination."
+      ],
+      "lawFirms": [
+        "The reforms bring bank holding companies within the scope of the new framework, so a banking group may need advice beyond the licensed subsidiary. The financial regulatory team can identify which parent entities and group arrangements are affected before management changes funding or control structures. The client needs to know whether its current organisation remains workable under the phased reforms.",
+        "The move from three banking categories to two gives institutions in the affected categories a concrete transition decision. The banking team can compare the applicable route with the client's deposit products and existing contracts. That advice helps management decide what it can continue offering and what needs to change before committing to a new business plan.",
+        "The bill provides for experts to assist with supervisory work. A bank board planning for such a review may ask the financial regulatory team who can supply records held by its parent company or an outside service provider. Finding that out early helps the bank provide a complete account and budget for the work across the group."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Government press release",
+          "url": "https://www.info.gov.hk/gia/general/202611/18/P2026111800410p.htm"
+        }
+      ]
+    },
+    {
+      "id": "2026-W47-007",
+      "headline": "US chip controls reach overseas data centres supplying computing power remotely",
+      "week": "2026-W47",
+      "weekLabel": "16–22 Nov 2026",
+      "date": "2026-11-16",
+      "region": "Global / HK",
+      "practiceAreas": [
+        "International Trade",
+        "IP / TMT"
+      ],
+      "whatsTheNews": "The US Commerce Department announced an interim final rule on 16 November covering remote access to advanced computing capacity. The rule took effect on 19 November. It requires a licence for certain transfers of equipment to data centres when the supplier knows they will provide computing power above a specified threshold to or for companies in covered places, including China. The location of a customer’s ultimate parent can bring it within scope even when another group company signs the contract.",
+      "whatItMeans": "A business building an artificial intelligence model can buy chips or pay a data centre to run calculations for it. In the second case the chips stay in the building. The customer gets the benefit of their work over a network. This explains why checking the destination on a shipping invoice tells a supplier only part of the story. A Hong Kong procurement office might order capacity in another country on behalf of its mainland parent. The amount of computing power, the equipment involved and who will benefit can all change whether a licence is needed. For a buyer, that uncertainty has a cost even before a decision arrives. It could pay to reserve machines that are unavailable when training is due to start. For a provider, the same booking could look like firm revenue until it discovers it cannot offer the promised service on the agreed date.",
+      "clients": [
+        "A Hong Kong technology buyer choosing a cloud supplier needs to ask what capacity it can actually book for its group and for how long. Before paying a deposit, management could seek a refund or a later start date if a licence is needed. This matters most for a buyer that has already promised its own customers a launch date.",
+        "A data centre operator selling a large block of capacity through an intermediary may need to know which business ultimately uses it. If it cannot establish that before ordering its servers, a seemingly firm booking might leave the operator with costly equipment and no customer it can serve on the original terms.",
+        "A lender funding a regional data centre might have based repayment on a single long term customer booking. If the proposed use now needs regulatory clearance, the bank can test whether other customers would take the same capacity at the same price. An expensive building can stand idle while interest on its construction loan keeps running."
+      ],
+      "lawFirms": [
+        "A Hong Kong buyer commissioning computing time for a mainland group might now ask the trade team to assess the proposed booking before it pays. The team needs to establish who ultimately receives the capacity and how much is reserved. That answer determines whether the buyer can rely on the date its supplier offered or should wait for a licence.",
+        "A cloud provider that has promised a customer uninterrupted access may face a gap between that promise and what its own supplier can deliver under the new rule. The technology team could be asked to negotiate a refund, replacement capacity or a right to suspend service. Each option puts the cost of a regulatory delay on a different business.",
+        "A bank financing a data centre could call the banking team when a large customer’s booking becomes conditional on a licence. If loan repayments assumed that income would start immediately, the bank may release construction funds in stages or require extra cash from the owner. The team can turn that credit decision into conditions for drawing the loan."
+      ],
+      "sources": [
+        {
+          "title": "US Bureau of Industry and Security",
+          "url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+        },
+        {
+          "title": "US Federal Register",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2026-W47-009",
+      "headline": "Court of Appeal raises hotel’s penalty for helping a travel ticket cartel",
+      "week": "2026-W47",
+      "weekLabel": "16–22 Nov 2026",
+      "date": "2026-11-19",
+      "region": "HK",
+      "practiceAreas": [
+        "Competition",
+        "Disputes / Litigation"
+      ],
+      "whatsTheNews": "The Court of Appeal increased Prudential Hotel's competition penalty from HK$104,000 to HK$950,000 on 19 November. The case concerns coordination of prices for tourist attraction and transport tickets sold at Hong Kong hotels. Prudential facilitated the arrangement although it did not itself compete in the ticket sales market. The court found the earlier penalty insufficient and accepted reference to penalties imposed on other cartel participants. Prudential must also pay the costs of the appeal and the earlier tribunal hearing.",
+      "whatItMeans": "A cartel is an arrangement in which competing businesses coordinate decisions such as prices instead of competing independently. That can keep prices higher and reduce customers' choice. A business can help the arrangement operate without selling the product itself, for example by carrying pricing information between rival suppliers. The Commission’s successful appeal shows how a hotel can face a substantial penalty even if it has no ticket sales of its own. The court accepted a different way of assessing the penalty, using other participants as a reference, because a calculation centred on ticket sales would not capture the hotel's role properly. For Hong Kong hotels and other businesses hosting outside operators, the decision changes how management should assess apparently routine commercial messages. The practical question is whether staff are serving customers or helping suppliers coordinate their prices, and whether agreements and communications reveal a risk that needs immediate advice.",
+      "clients": [
+        "Hotels that host competing ticket providers should examine what their staff communicate between those businesses. Passing a rival's intended prices can create exposure even when the hotel earns its main income from rooms. Management needs to distinguish legitimate booking assistance from coordination before allowing a common pricing discussion to continue.",
+        "Travel operators should assess whether distribution arrangements preserve independent pricing. A convenient sales channel can become costly if it helps competing providers maintain agreed prices. Operators may need to change how they supply price information to hotels while keeping enough information available for customers to compare the tickets on offer.",
+        "Businesses facing an investigation need to compare the available response options with the cost and uncertainty of litigation. Here, the penalty increased on appeal and costs followed. Management should obtain advice on the evidence and any available resolution route without assuming that an initially modest penalty fixes the final financial exposure."
+      ],
+      "lawFirms": [
+        "The penalty rose despite Prudential not competing in ticket sales, so the competition team may be asked by hotel operators whether their sales arrangements facilitate coordination. The client needs to decide which information staff can pass between suppliers now. Reviewing actual communications helps distinguish customer service from conduct that creates liability.",
+        "Prudential now faces the higher penalty and the costs of two hearings. A hotel weighing a regulator’s offer to resolve a similar case may ask the disputes team to estimate what it stands to lose by contesting it. The comparison includes the cost of defending the case and the effect of an adverse order, even if the business itself made little from the ticket sales.",
+        "The case concerns tickets sold through hotels, so the commercial contracts team may be asked by venue owners to review agreements with outside operators. The client needs workable boundaries on pricing discussions and information sharing before renewing those arrangements. Contract wording must match how staff actually handle competing suppliers each day."
+      ],
+      "sources": [
+        {
+          "title": "Competition Commission",
+          "url": "https://www.compcomm.hk/en/media/press/files/PR_Appeal_EN.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2026-W47-010",
+      "headline": "Zurich suspends Hong Kong customer portal as privacy watchdog investigates data access",
+      "week": "2026-W47",
+      "weekLabel": "16–22 Nov 2026",
+      "date": "2026-11-20",
+      "region": "HK",
+      "practiceAreas": [
+        "Cybersecurity / Data"
+      ],
+      "whatsTheNews": "Zurich Insurance Hong Kong suspended its customer portal after discovering unauthorised access, HK01 reported on 20 November. The privacy watchdog said the personal data of 38,453 people might be affected and it had opened investigations into three Zurich entities. Potentially involved information includes names, identity card and passport numbers, birth dates and contact details. Zurich said it was investigating with cybersecurity experts and notifying affected customers. It said existing insurance cover remained valid despite the platform's suspension.",
+      "whatItMeans": "An insurance policy is the contract providing cover. The online portal is one channel for managing that contract. Closing the portal to contain a security incident does not itself cancel the insurer's promise to pay valid claims. Zurich's statement draws that distinction, but customers still need a reliable way to obtain service while the system is unavailable. Identity numbers combined with names and contact details can also help a fraudster impersonate a customer or insurer, even without access to payment data. That makes accurate communication and alternative identity checks part of the business response, alongside repairing the system. The reported figure is a possible affected population, not proof that every person's complete record was extracted or that a legal breach has been established. The immediate challenge is to determine what happened, protect continuing policy administration and explain what customers should do without claiming certainty before the investigation is finished.",
+      "clients": [
+        "Zurich needs to keep policy administration available while restricting the affected portal. Customers may still need to submit information or ask about cover, so replacement channels must be secure and clearly explained. Restoring access quickly is useful only if the company also understands the incident and can avoid exposing customers through improvised workarounds.",
+        "Other insurers should consider how customer service teams verify callers when identity details may be known to outsiders. A correct name and identity number are weaker checks after an exposure. Strengthening verification must be balanced with helping legitimate customers, particularly those who cannot readily use another digital channel during an outage.",
+        "Insurance intermediaries need consistent instructions on how to handle client enquiries and sensitive documents while the portal is unavailable. A hurried switch to personal email or messaging could create another exposure. Explaining that cover remains in force also helps prevent clients from making unnecessary cancellations or payments in response to fraudulent messages."
+      ],
+      "lawFirms": [
+        "The watchdog has opened investigations into three Zurich entities, so the data privacy team may be asked to establish which entity controlled each affected record and what must be explained to regulators. The client needs a consistent account before making further notifications. That requires separating confirmed access from the still provisional estimate of affected people.",
+        "The portal is suspended but policies remain valid, so the insurance team may advise on how customers can continue to exercise contractual rights during the interruption. The insurer must decide how to handle time sensitive requests without suggesting that cover has lapsed. Reviewing alternative service arrangements now can reduce avoidable disputes with policyholders.",
+        "The incident involves a customer platform and an ongoing technical investigation, so the technology contracts team may review rights to records and assistance from relevant service suppliers. The insurer needs evidence to decide when it can restore access. Advice on cooperation duties and record preservation can prevent operational urgency from weakening later recovery options."
+      ],
+      "sources": [
+        {
+          "title": "HK01",
+          "url": "https://www.hk01.com/社會新聞/60413006/蘇黎世保險網上平台遭入侵-3-8萬客戶資料疑外洩-網上平台停用"
+        }
+      ]
+    },
+    {
+      "id": "2026-W47-013",
+      "headline": "Hong Kong introduces bill to give electronic trade documents legal effect",
+      "week": "2026-W47",
+      "weekLabel": "16–22 Nov 2026",
+      "date": "2026-11-18",
+      "region": "HK",
+      "practiceAreas": [
+        "International Trade",
+        "IP / TMT"
+      ],
+      "whatsTheNews": "Hong Kong's acting commerce secretary moved the second reading of the Electronic Transactions Amendment Bill on 18 November. The proposal would provide a legal framework for electronic transferable records, including electronic versions of bills of lading and payment instruments. A business would need a reliable way to identify the authoritative electronic record and show who controls it. The framework draws on a United Nations model law. Using electronic records would remain optional rather than requiring businesses to abandon paper.",
+      "whatItMeans": "Some trade documents do more than record information. Possessing and transferring the document can carry rights to goods or payment. A transferable bill of lading, for example, can help determine who is entitled to demand delivery of cargo. Simply emailing a scan does not recreate that function because identical copies can circulate without a clear exclusive holder. The proposed framework would let a reliable electronic system establish the equivalent of control over one authoritative record. That could help Hong Kong traders exchange documents faster and reduce delays between shipment, finance and payment. But a proposed law does not make every existing file or platform legally effective. Businesses would still need to assess whether their system meets the eventual requirements and whether the other participants and relevant jurisdictions recognise its use. The practical choice is therefore which trading routes and counterparties could support a reliable electronic process, while keeping paper available where it is still needed.",
+      "clients": [
+        "Hong Kong importers and exporters can consider where paper documents slow cargo release or payment. Electronic transfer could reduce that delay, but only if the carrier, buyer and other participants accept the arrangement. Firms should identify suitable transactions and the resulting cash savings before paying to replace an established document process.",
+        "Banks financing shipments need confidence that the electronic record gives the borrower or bank the intended rights to goods or payment. Faster document exchange is useful only if the security position remains effective. Lenders may need to assess the platform, transaction documents and applicable laws before agreeing to finance trade using the new format.",
+        "Shipping and technology providers have an opportunity to offer systems that track an authoritative record and changes in control. Their commercial challenge is wider than putting a paper form online. They need reliable procedures for transfer, access failure and disputes so that customers can trust the service when cargo and payment are at stake."
+      ],
+      "lawFirms": [
+        "The bill would recognise control of electronic transferable records, so the trade team may advise exporters choosing which shipping routes to digitise first. The client needs to know whether carriers and buyers will accept the same process and whether relevant laws support it. Advice now can shape a pilot without treating the proposal as already effective law.",
+        "Bills of lading are among the documents covered by the proposal, so the banking team may be asked by trade lenders whether an electronic process preserves their intended rights to cargo. The bank must decide what it can safely finance. Reviewing control and transfer arrangements before adoption connects the proposed legal change to the lender's repayment protection.",
+        "The proposal is technology neutral and depends on reliability, so the technology team may advise platform operators on customer contracts and responsibility for a failed transfer. The operator needs to decide what its service promises and how loss would be allocated. Clear rules for access, evidence and interruption matter before customers entrust valuable trade records to it."
+      ],
+      "sources": [
+        {
+          "title": "Hong Kong Government",
+          "url": "https://www.info.gov.hk/gia/general/202611/18/P2026111800379.htm"
         }
       ]
     }
